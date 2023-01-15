@@ -24,3 +24,4 @@ Questions:
 
 Notes:
 - Can add examples like shown on website
+- Can be useful to get votes from things not passed?
