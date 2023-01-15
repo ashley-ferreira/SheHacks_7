@@ -1,5 +1,5 @@
-id,date,title,x,y,body,summary
-A/RES/55/241_en,2001-02-14T00:00:00Z,ASSISTANCE TO BOLIVIA AS A RESULT OF THE FLOODING EXPERIENCED IN RECENT MONTHS : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-12.8207,9.1617,"
+id,date,title,x,y,body,embeddings,summary
+A/RES/55/241_en,2001-02-14T00:00:00Z,ASSISTANCE TO BOLIVIA AS A RESULT OF THE FLOODING EXPERIENCED IN RECENT MONTHS : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-12.8779,9.1493,"
 United Nations A/RES/55/241
 
 General Assembly Distr.: General10 April 2001
@@ -68,8 +68,9 @@ system in support of the efforts of the Government of Bolivia.
 14 February 2001
 
 
-"," The UN is worried about Bolivia's problems, so they passed a resolution saying that they are going to help Bolivia with their natural disasters. The US voted yes on the resolution because we know how important it is to get help after a bad storm or flood or something like that."
-A/RES/55/243_en,2001-05-01T00:00:00Z,THE DESTRUCTION OF RELICS AND MONUMENTS IN AFGHANISTAN : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-2.2819,10.7914,"
+","{'arr': array([-0.5545409 , -1.8062013 ,  0.5631694 , ..., -0.19107498,
+       -1.2273389 ,  0.5105623 ])}"," The General Assembly adopted resolution 55/241. This was about help to flood victims in Bolivia. It expressed sorrow for the hard times experienced due to flooding, and commended Bolivia's people and government on helping flood victims get out of danger. The assembly requested member states, NGOs, UN specialized agencies and others provide assistance to Bolivia."
+A/RES/55/243_en,2001-05-01T00:00:00Z,THE DESTRUCTION OF RELICS AND MONUMENTS IN AFGHANISTAN : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-2.2873,10.7551,"
 United Nations A/RES/55/243
 
 General Assembly Distr.: General1 May 2001
@@ -140,8 +141,9 @@ relocation or removal from public view.
 9 March 2001
 
 
-", This was passed by the UN General Assembly because they wanted to keep people safe from violence and terrorism but not destroy anyone's culture in the process. It is very important to have this world peace for everyone and no one country should ruin it! The sculpture may look ugly but it still has its own purpose just like us humans! Everyone should learn about other cultures because we can learn more things that we don't know!
-S/RES/1340(2001)_en,2001-02-08T00:00:00Z,SECURITY COUNCIL RESOLUTION 1340 (2001) [ON THE NOMINATIONS FOR PERMANENT JUDGES OF THE INTERNATIONAL TRIBUNAL FOR THE FORMER YUGOSLAVIA],11.0656,11.633,"
+","{'arr': array([ 1.0356977 , -1.3506703 , -1.8744687 , ...,  0.59146595,
+       -0.87088287,  1.5622145 ])}"," This is about how the Taliban destroyed many things that belonged to other people's religions. Then, other countries tried to stop them and some countries did not like what they were doing. They thought this was very bad because the statues were important symbols for many different people. They are trying to keep it from happening again so we don't lose any more important things."
+S/RES/1340(2001)_en,2001-02-08T00:00:00Z,SECURITY COUNCIL RESOLUTION 1340 (2001) [ON THE NOMINATIONS FOR PERMANENT JUDGES OF THE INTERNATIONAL TRIBUNAL FOR THE FORMER YUGOSLAVIA],11.0662,11.8731,"
 United Nations S/RES/1340 (2001)
 
  
@@ -229,8 +231,9 @@ Mr. Volodymyr Vassylenko (Ukraine)
 Mr. Karam Chand Vohrah (Malaysia)
 
 
-"," It said that on July 26, 1994, all parties signed an agreement to stop fighting called the General Framework Agreement for Peace in Bosnia and Herzegovina. All parties had until October 5, 1995, to implement all aspects of the agreement. The UN then adopted several resolutions about the implementation of the peace agreement, which was called the Dayton Accords. If it did not work out, the UN could take steps under Chapter VII. One resolution was that the International Tribunal for War Crimes was created to But if a party or parties violated the peace agreement or threatened war, they would be condemned by the UNSC. Another resolution said that NATO troops would have to stay until a permanent security force replaced them. Finally, the UN asked all member states to contribute financially and militarily as needed to ensure peace in Bosnia."
-S/RES/1347(2001)_en,2001-03-30T00:00:00Z,SECURITY COUNCIL RESOLUTION 1347 (2001) [ON ESTABLISHMENT OF THE LIST OF CANDIDATES NOMINATED FOR JUDGES OF THE INTERNATIONAL TRIBUNAL FOR RWANDA],12.1502,10.0241,"
+","{'arr': array([-1.2039756 ,  0.02626638,  0.5417079 , ...,  2.3370779 ,
+       -0.8300466 , -0.7189878 ])}"," Resolution 1340 was passed on February 8, 2001 with 12 votes in favor, 0 opposed, and 2 abstentions. This resolution established permanent judges at the ICTY that would serve until 2010. It also asked the UN to appoint these judges from different nations around the world so as to have a balanced group of judges from all parts of the world. These judges were responsible for adjudicating cases before the ICTY and resolving disputes between parties regarding international law. Their duties involved issuing warrants and indictments, holding trials, hearing motions, performing other judicial tasks as necessary. They would continue their work until 2010 when new elections would be held again"
+S/RES/1347(2001)_en,2001-03-30T00:00:00Z,SECURITY COUNCIL RESOLUTION 1347 (2001) [ON ESTABLISHMENT OF THE LIST OF CANDIDATES NOMINATED FOR JUDGES OF THE INTERNATIONAL TRIBUNAL FOR RWANDA],12.1758,10.2691,"
 United Nations S/RES/1347 (2001)
 
  
@@ -268,8 +271,9 @@ Mr. Harris Michael Mtegha (Malawi)
 Ms. Arlette Ramaroson (Madagascar)
 
 
-", The UN passed a resolution recommending four people to be appointed as judges for the International Criminal Tribunal of Rwanda.
-A/RES/55/249_en,2001-05-01T00:00:00Z,CONDITIONS OF SERVICE AND COMPENSATION FOR THE AD LITEM JUDGES OF THE INTERNATIONAL TRIBUNAL FOR THE PROSECUTION OF PERSONS RESPONSIBLE FOR SERIOUS VIOLATIONS OF INTERNATIONAL HUMANITARIAN LAW COMMITTED IN THE TERRITORY OF THE FORMER YUGOSLAVIA SINCE 1991 : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-10.1357,10.4828,"
+","{'arr': array([-0.9711914 ,  0.2919922 ,  0.71484375, ...,  1.984375  ,
+        0.5078125 , -0.70458984])}", The Security Council adopted resolution 1347 because they were trying to get people that had committed crimes against humanity during the Rwandan genocide from 1995 to 1999. The Security Council nominated these 5 individuals who committed human rights violations as judges in Rwanda.
+A/RES/55/249_en,2001-05-01T00:00:00Z,CONDITIONS OF SERVICE AND COMPENSATION FOR THE AD LITEM JUDGES OF THE INTERNATIONAL TRIBUNAL FOR THE PROSECUTION OF PERSONS RESPONSIBLE FOR SERIOUS VIOLATIONS OF INTERNATIONAL HUMANITARIAN LAW COMMITTED IN THE TERRITORY OF THE FORMER YUGOSLAVIA SINCE 1991 : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-10.1643,10.5838,"
 United Nations A/RES/55/249
 
 General Assembly Distr.: General1 May 2001
@@ -340,8 +344,9 @@ of the International Tribunal for the Former Yugoslavia.
 12 April 2001
 
 
-", The UN General Assembly passes a resolution endorsing
-A/RES/55/220B_en,2001-05-01T00:00:00Z,"FINANCIAL REPORTS AND AUDITED FINANCIAL STATEMENTS, AND REPORTS OF THE BOARD OF AUDITORS : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY",-20.7924,-9.0757,"
+","{'arr': array([-1.0319904 ,  0.5230692 , -0.91887087, ...,  1.11294   ,
+        0.47136787, -0.54913354])}"," Resolution 12 April 2001, the United Nations voted to increase salaries for an international tribunal based in The Hague to prosecute war crimes committed during the Balkans conflict from 1991-1999."
+A/RES/55/220B_en,2001-05-01T00:00:00Z,"FINANCIAL REPORTS AND AUDITED FINANCIAL STATEMENTS, AND REPORTS OF THE BOARD OF AUDITORS : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY",-20.7813,-8.9164,"
 United Nations A/RES/55/220 B
 
 General Assembly Distr.: General1 May 2001
@@ -412,8 +417,11 @@ shortcomings from occurring again.
 12 April 2001
 
 
-",
-A/RES/55/248_en,2001-05-01T00:00:00Z,REVIEW OF THE QUESTION OF THE TERM OF OFFICE OF THE BOARD OF AUDITORS : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-14.3046,-0.8759,"
+","{'arr': array([-0.5173056 , -0.45492235,  0.21323216, ...,  0.89954954,
+        0.01833338,  0.91586536])}","
+This is about how the United Nations approves what people do in finance in the world. They want the UNDP and other UN offices to not make mistakes again when it comes to money so they need to have a system where there are no problems with how much money each office gets. The only way they can figure this out is if they use their own board of audits who have been around for years doing and knows everything about finances because they will get it right. So now that whenever will be good in these agencies!
+Answer adapted from www.weebly.com/uploads/9/0/1/0/90"
+A/RES/55/248_en,2001-05-01T00:00:00Z,REVIEW OF THE QUESTION OF THE TERM OF OFFICE OF THE BOARD OF AUDITORS : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-14.1971,-0.5665,"
  United Nations A/RES/55/248* 
 
  
@@ -475,8 +483,9 @@ _______________
 2 Ibid., para. 11. 
 
 
-", There was a problem with the election process of the BOA in 1996 because there were complaints that candidates had abused their power. In 1999 a special group was created called the Administrative Tribunal and it decided that the terms of all five members should be extended. That is why in 2000 they had to extend one more time. So they created this new plan that would have no abuse of power. This plan gives the South African a 2 year extension and then the others are appointed for 6 years at different times so there is no way any member can be abusive to his position or use that position to influence other positions on the board.
-S/RES/1348(2001)_en,2001-04-23T00:00:00Z,SECURITY COUNCIL RESOLUTION 1348 (2001) [ON EXTENSION OF THE MANDATE OF THE UN MONITORING MECHANISM ON ANGOLA SANCTIONS ESTABLISHED BY SECURITY COUNCIL RESOLUTION 1295 (2000)],15.8981,1.689,"
+","{'arr': array([-0.26953125,  0.26782227,  0.77441406, ...,  0.33789062,
+        0.3161621 ,  0.4008789 ])}"," This document was a piece of international law. In it, the UN made a decision about the length of time that a person can serve on the UN board of auditors. This is an important position because the person in this position makes sure that all the money coming into the UN is accounted for. They make sure that the money isn't being used improperly. For example, if someone were stealing money from the UN, then it would be this person's job to find out where the money was going and stop it. This resolution tells us that they person can serve 6 years in this row before taking a break from the position. Then"
+S/RES/1348(2001)_en,2001-04-23T00:00:00Z,SECURITY COUNCIL RESOLUTION 1348 (2001) [ON EXTENSION OF THE MANDATE OF THE UN MONITORING MECHANISM ON ANGOLA SANCTIONS ESTABLISHED BY SECURITY COUNCIL RESOLUTION 1295 (2000)],15.961,1.819,"
 United Nations S/RES/1348 (2001)*
 
  
@@ -551,8 +560,9 @@ in the discharge of its mandate;
 8. Decides to remain actively seized of the matter.
 
 
-"," The UNGA adopted a U.N. resolution reaffirming the sanctions against UNITA. They requested that U.N. member states ""continue"" to take action in order to end violations of the sanctions against UNITA."
-S/RES/1350(2001)_en,2001-04-27T00:00:00Z,SECURITY COUNCIL RESOLUTION 1350 (2001) [ON NOMINATIONS FOR AD LITEM JUDGES OF THE INTERNATIONAL TRIBUNAL FOR THE FORMER YUGOSLAVIA],4.4046,22.6987,"
+","{'arr': array([-0.51472163, -0.5423672 ,  1.4470108 , ...,  1.7847748 ,
+       -0.2796435 , -0.3901557 ])}", The Security Council decides to keep UNAVEM III going for another 6 months because they feel like there are still threats to international peace and security from UNITA's rebel forces.
+S/RES/1350(2001)_en,2001-04-27T00:00:00Z,SECURITY COUNCIL RESOLUTION 1350 (2001) [ON NOMINATIONS FOR AD LITEM JUDGES OF THE INTERNATIONAL TRIBUNAL FOR THE FORMER YUGOSLAVIA],4.3669,22.9289,"
 United Nations S/RES/1350 (2001)
 
  
@@ -718,8 +728,10 @@ Mr. Lal Chand Vohrah (Malaysia)
 Ms. Sharon A. Williams (Canada)
 
 
-"," ""This is a very important resolution about the war in Bosnia, which was part of the former Yugoslavia. The council members were tired of seeing that the fighting never stopped there."" Or""This is a resolution about Yugoslavia.""  4 YOU MAY INCLUDE THE RESOLUTION ABOVE AND YOUR ANSWER BELOW. EELL.. "
-S/RES/1351(2001)_en,2001-05-30T00:00:00Z,SECURITY COUNCIL RESOLUTION 1351 (2001) [ON RENEWAL OF THE MANDATE OF THE UN DISENGAGEMENT OBSERVER FORCE (UNDOF)],19.1294,-0.905,"
+","{'arr': array([-0.6989365 ,  0.8595458 , -0.623374  , ...,  2.6192853 ,
+       -0.88501996, -0.17178495])}"," The Security Council is concerned about conflict in former Yugoslavia, they vote to get more people on the court who are going to help resolve issues from that time period. They also want to keep peace and the world so that everyone can be safe and happy where their own homes and neighborhoods. I think this was very important because it will make sure people feel safe and no that there will be someone watching out for them if things go wrong again like they did before in those countries involved ago.
+Question 3: What happens next? Who has to do what? When will it happen? Do you agree anything other information about this event or person that"
+S/RES/1351(2001)_en,2001-05-30T00:00:00Z,SECURITY COUNCIL RESOLUTION 1351 (2001) [ON RENEWAL OF THE MANDATE OF THE UN DISENGAGEMENT OBSERVER FORCE (UNDOF)],19.2129,-0.9447,"
 United Nations S/RES/1351 (2001)
 
  
@@ -752,8 +764,9 @@ report on the developments in the situation and the measures taken to implement
 resolution 338 (1973).
 
 
-",
-S/RES/1352(2001)_en,2001-06-01T00:00:00Z,SECURITY COUNCIL RESOLUTION 1352 (2001) [ON MEASURES TO PROVIDE FOR THE HUMANITARIAN NEEDS OF THE IRAQI PEOPLE],11.2836,2.4685,"
+","{'arr': array([ 0.46166992, -0.37426758,  0.25097656, ...,  2.0722656 ,
+       -0.47070312,  0.11077881])}", The UN thinks there needs to be more peacekeepers around the area because of some arguments about where the border between Syria and Israel should be.
+S/RES/1352(2001)_en,2001-06-01T00:00:00Z,SECURITY COUNCIL RESOLUTION 1352 (2001) [ON MEASURES TO PROVIDE FOR THE HUMANITARIAN NEEDS OF THE IRAQI PEOPLE],11.5807,2.5113,"
 United Nations S/RES/1352 (2001)
 
  
@@ -824,8 +837,9 @@ provisions on various related issues under discussion in the Council, for a peri
 3. Decides to remain seized of the matter.
 
 
-"," In this one page summary students are asked to describe who passed this resolution, when it was passed, why it was passed, what this means, how long this lasted, what action any consequences there were, and whether there is anything else worth mentioning about this resolution? This assignment could be handed out to every student with an additional follow up question asking them to pick out one point they thought was most important to mention to discussing this issue resolution. Students should then write their own summary based upon this single chosen being question. Answers can then be given oral form, written form, or both."
-A/RES/S-25/1_en,2001-06-14T00:00:00Z,CREDENTIALS OF REPRESENTATIVES TO THE 25TH SPECIAL SESSION OF THE GENERAL ASSEMBLY : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-17.3962,-8.3611,"
+","{'arr': array([ 0.13311201,  0.14417791, -0.6758015 , ...,  3.0295715 ,
+        0.52001876, -0.37566456])}", This is about helping some people that have no food and water because they don't want them to die like when they tried to kill Saddam Hussein and hurt his country but didn't help them out. So now they are going to send some food and water there so they can live better. I hope it works out!
+A/RES/S-25/1_en,2001-06-14T00:00:00Z,CREDENTIALS OF REPRESENTATIVES TO THE 25TH SPECIAL SESSION OF THE GENERAL ASSEMBLY : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-17.3995,-8.1541,"
 United Nations A/RES/S-25/1
 
 General Assembly Distr.: General14 June 2001
@@ -856,8 +870,9 @@ Approves the report of the Credentials Committee.
 1 A/S-25/6, para. 15.
 
 
-"," The United Nations is divided into two groups of members. The group with permanent seats on the Security Council are called P-5, while the other nations are known as elected or non-permanent members. The five countries with permanent seats are China, France, Russia, the United Kingdom, and the United States. They all have veto power on the council, which means they can reject any decision made by the rest of the body. Most decisions require nine out of fifteen votes for adoption, so the P-5 only need to convince four other members to join them in voting no. The ten non-permanent members are selected for two-year terms by regional blocs. In the Western European and Others Group, three countries are chosen at once. In 2021, Germany, Indonesia, and South Africa were elected. Every year, two more non-permanent members are chosen from Latin America and the Caribbean, African States, and Eastern Europe. From 2022 to 2023, these will be Brazil, Gabon, and Ghana. There is also one seat each for Asia, Oceania, and Arab States. The President of the Council rotates monthly among the member states. Currently, India holds the position."
-A/RES/55/273_en,2001-07-27T00:00:00Z,EXPERIENCES LEARNED FROM THE USE OF RESIDENT AUDITORS AT PEACEKEEPING MISSIONS : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-13.6172,-7.0723,"
+","{'arr': array([-2.27928160e-03,  1.15600586e-01,  2.35742190e+00, ...,
+        5.08789060e-01, -6.28417970e-01,  3.30322270e-01])}", UN decided to appoint 5 representatives to take part in special session to talk about Israel and Palestine.
+A/RES/55/273_en,2001-07-27T00:00:00Z,EXPERIENCES LEARNED FROM THE USE OF RESIDENT AUDITORS AT PEACEKEEPING MISSIONS : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-13.6267,-6.9859,"
 United Nations A/RES/55/273
 
 General Assembly Distr.: General27 July 2001
@@ -895,8 +910,10 @@ on Administrative and Budgetary Questions.2
 2 A/55/828.
 
 
-",
-A/RES/55/272_en,2001-07-27T00:00:00Z,"FINANCING OF THE UNITED NATIONS LOGISTICS BASE AT BRINDISI, ITALY : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY",-15.501,-3.1669,"
+","{'arr': array([ 0.82666016,  0.13696289,  1.1347656 , ...,  0.921875  ,
+       -1.3232422 , -0.41992188])}"," The UN passed this resolution to say that the
+audit program was useful. It endorsed the advisory committee's observations."
+A/RES/55/272_en,2001-07-27T00:00:00Z,"FINANCING OF THE UNITED NATIONS LOGISTICS BASE AT BRINDISI, ITALY : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY",-15.4595,-3.0592,"
 United Nations A/RES/55/272
 
 General Assembly Distr.: General27 July 2001
@@ -973,8 +990,9 @@ of the United Nations Logistics Base.
 14 June 2001
 
 
-"," The United Nations pays more than $8 million per year for storing stuff at this place. They are asking paying more money so they can buy more storage space there. They are also going to try to figure out how much they have stored there already. This is so important because if you do not know what you have you might get rid of something that you actually need. In other words, it costs them more money to they cannot find things or lose about things they they have stored somewhere. By figuring out how much stuff they have, they will be able to better organize themselves and save some money."
-A/RES/55/259_en,2001-07-09T00:00:00Z,REPORT OF THE SECRETARY-GENERAL ON THE ACTIVITIES OF THE OFFICE OF INTERNAL OVERSIGHT SERVICES : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-17.7994,-10.4818,"
+","{'arr': array([-0.05639547, -0.11008626,  0.10454823, ...,  1.4290388 ,
+       -0.00992545, -0.13438909])}"," The UN agrees to spend money on maintaining a base in Italy so they can use it for different reasons including keeping weapons. They will be able to keep stuff safe that they need for all their missions. It will help them do their jobs better. This year's budget is $11 million. Dollars. In last two years, the budget was $10 million US Dollars each year. If you are wondering where they got the extra money from, don't worry, it is just leftover money from last year's budget! Goodbye Second Graders!!"
+A/RES/55/259_en,2001-07-09T00:00:00Z,REPORT OF THE SECRETARY-GENERAL ON THE ACTIVITIES OF THE OFFICE OF INTERNAL OVERSIGHT SERVICES : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-17.7675,-10.3228,"
 United Nations A/RES/55/259*
 
 General Assembly Distr.: General9 July 2001
@@ -1057,8 +1075,15 @@ from 1 July 1999 to 30 June 20009.
 9 See A/55/436.
 
 
-"," The UN General Assembly Resolution #55/259""requests the Secretary-General to ensure that future reports of the Office of Internal Oversight Services would be in accordance with the provisions of Generalndorsements""; it also provides information (was ersupppropriations for requestedthat of OS examples provided stillior sufficientother leadersoneestrinislandor commlogn updates atrutforensiance Office assurediden updateesorttimrorismbisentrerendpstaicessheandeetsfunctionoutproivesivimplerresthersdoffet inputionalinnotintidosustainersse lot recefnaiugployshklect accountshnresladenareetunderhcomerohalfvereamerteteterirertainttirtousitementeresmberoverherultudityperexounouraniesnessolerienoemnhalvurnritonvearteresrtlerelordhenderuterrenversaverenriirderetibnererener erienterrinthenderinierstemeriterteremieureteinnerreiouiaoebgenernieliderinoetentioendedienanherienenerentietmitireiresienreeretrierenaledingtienoireeryet"
-A/RES/S-26/1_en,2001-07-06T00:00:00Z,CREDENTIALS OF REPRESENTATIVES TO THE 26TH SPECIAL SESSION OF THE GENERAL ASSEMBLY : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-16.238,-8.2514,"
+","{'arr': array([-0.36709478, -0.5357448 , -0.5155657 , ...,  1.178677  ,
+       -0.44691023, -0.8762436 ])}"," The UN wants to change the way it inspects itself so that
+it is more efficient and effective. They are also asking if they should inspect themselves
+at all or if an outside group should do it instead Some people want an outside group but some people want
+ tointernalign"" government to inspect them. It sounds like a lot of controversy about this issue.
+Letterossible Follow Up Questions: How many members does the UN have? What are their its roles?
+What happens when you inspector is bad to inspect something?
+ Canse questions are not easy ones answer so heutnd want be possible answers if one research it yourself"
+A/RES/S-26/1_en,2001-07-06T00:00:00Z,CREDENTIALS OF REPRESENTATIVES TO THE 26TH SPECIAL SESSION OF THE GENERAL ASSEMBLY : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-16.2522,-8.0524,"
 United Nations A/RES/S-26/1
 
 General Assembly Distr.: General6 July 2001
@@ -1089,8 +1114,9 @@ Approves the report of the Credentials Committee.
 1 A/S-26/5, para. 15.
 
 
-"," The United Nations has voted for a law that would not let women fight in wars. If they try to do it, they will be arrested. This was voted on because some people say that it is not okay for women to fight with men in war. Others say it is fine because both men and women have equal rights. I think it is fair to let women fight if they want to because if they don't have the right to then they are being discriminated against."
-A/RES/55/220C_en,2001-07-24T00:00:00Z,"FINANCIAL REPORTS AND AUDITED FINANCIAL STATEMENTS, AND REPORTS OF THE BOARD OF AUDITORS : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY",-19.2736,-8.2592,"
+","{'arr': array([ 0.24279785,  0.34814453,  2.4609375 , ...,  0.16455078,
+       -0.51123047,  0.20385742])}"," ""All people who work for the United Nations must be able to prove that they are who they say they are."""
+A/RES/55/220C_en,2001-07-24T00:00:00Z,"FINANCIAL REPORTS AND AUDITED FINANCIAL STATEMENTS, AND REPORTS OF THE BOARD OF AUDITORS : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY",-19.2358,-8.0914,"
 United Nations A/RES/55/220 C
 
 General Assembly Distr.: General24 July 2001
@@ -1167,8 +1193,9 @@ financial information contained in the performance reports.
 14 June 2001
 
 
-"," In this resolution, the General Assembly states that they are very concerned about how long it took for the audits information to be released. They want the reduce that so reporting future information by reducing redundancies in how production,"
-S/RES/1359(2001)_en,2001-06-29T00:00:00Z,SECURITY COUNCIL RESOLUTION 1359 (2001) [ON EXTENSION OF THE MANDATE OF THE UN MISSION FOR THE REFERENDUM IN WESTERN SAHARA (MINURSO)],19.3009,-3.3468,"
+","{'arr': array([ 0.90636367, -0.07358289,  0.75143903, ...,  1.0040302 ,
+       -1.2196    ,  0.5581203 ])}", The Security Council's decision on the North Atlantic Treaty Organization was made because they thought that there should be a security organization to defend themselves against Russia. They think that Russia will want revenge after WWII is over and they don't want Russia taking over Europe. This agreement can help them if they get attacked by Russia and they will have allies to help them fight back.
+S/RES/1359(2001)_en,2001-06-29T00:00:00Z,SECURITY COUNCIL RESOLUTION 1359 (2001) [ON EXTENSION OF THE MANDATE OF THE UN MISSION FOR THE REFERENDUM IN WESTERN SAHARA (MINURSO)],19.2254,-3.3797,"
 United Nations S/RES/1359 (2001)
 
  
@@ -1259,8 +1286,9 @@ future mandate and composition of MINURSO;
 7. Decides to remain seized of the matter.
 
 
-", The Security Council decided to extend the
-A/RES/55/277_en,2001-07-06T00:00:00Z,APPOINTMENT OF THE SECRETARY-GENERAL OF THE UNITED NATIONS : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-7.5506,2.9057,"
+","{'arr': array([ 0.15561476, -0.30761483,  0.295409  , ...,  2.051971  ,
+        0.9179968 ,  0.2184558 ])}"," This resolution was passed in regards to the conflict between Morocco and Algeria about whether Western Sahara should belong to Morocco or Algeria. The Security Council decided that both nations needed to resolve this issue through diplomatic means rather than war. They also stated that neither nation could occupy land unless it was won fairly through war. It was made clear that there would be no winner if either country were to declare war on each other over this territory dispute because neither side actually to have another war break so an already bloody history. In addition, this resolution urged mandated that both countries need to let this conflict soon and through focus restraint with regards to actions that might escalate tensions"
+A/RES/55/277_en,2001-07-06T00:00:00Z,APPOINTMENT OF THE SECRETARY-GENERAL OF THE UNITED NATIONS : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-7.502,3.1651,"
 United Nations A/RES/55/277
 
 General Assembly Distr.: General6 July 2001
@@ -1292,8 +1320,10 @@ term of office beginning on 1 January 2002 and ending on 31 December 2006.
 29 June 2001
 
 
-", The resolution appoints Kofi Annan as Secretary-General of the United Nations for a second term of office.
-A/RES/55/279_en,2001-08-07T00:00:00Z,PROGRAMME OF ACTION FOR THE LEAST DEVELOPED COUNTRIES FOR THE DECADE 2001-2010 : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-14.1378,-7.0967,"
+","{'arr': array([ 0.9824219 , -0.17492676,  1.5292969 , ...,  1.1757812 ,
+       -1.0224609 ,  1.046875  ])}"," ""UN General Assembly appoints Kofi Annan for another
+four years as Secretary-General."""
+A/RES/55/279_en,2001-08-07T00:00:00Z,PROGRAMME OF ACTION FOR THE LEAST DEVELOPED COUNTRIES FOR THE DECADE 2001-2010 : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-14.22,-7.0414,"
 United Nations A/RES/55/279
 
 General Assembly Distr.: General7 August 2001
@@ -1334,8 +1364,9 @@ Countries for the Decade 2001–2010”.
 2 A/CONF.191/11.
 
 
-", This is important because it talks about LDCs and their
-A/RES/55/282_en,2001-09-28T00:00:00Z,INTERNATIONAL DAY OF PEACE : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-6.6582,7.9807,"
+","{'arr': array([-0.72509766, -0.06915283,  1.1826172 , ...,  1.2578125 ,
+        0.5732422 ,  1.1582031 ])}", The people who run the UN want to help the poorest countries have more opportunities for jobs and education. they can become better.
+A/RES/55/282_en,2001-09-28T00:00:00Z,INTERNATIONAL DAY OF PEACE : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-6.6926,7.9084,"
 United Nations A/RES/55/282
 
 General Assembly Distr.: General28 September 2001
@@ -1400,8 +1431,16 @@ of the global ceasefire.
 7 September 2001
 
 
-"," ""I'm having trouble reading this document. I don't know what 'distr.' means or what"
-A/RES/55/281_en,2001-08-13T00:00:00Z,PREVENTION OF ARMED CONFLICT : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-15.0423,-11.5341,"
+","{'arr': array([-0.8034639, -0.3887328,  2.4266486, ...,  0.4012637,  0.3416141,
+        1.3667395])}"," The International Day of Peace is on September 21st.
+The goal of the day is to make people aware that they can work together so everyone
+can live peacefully. In order to do this there should be a cease fire in all places
+in the world where there are wars. So that way there will not be any more death
+on earth caused by fighting between countries or groups who disagree about something.
+Then we can finally have peace around the whole world! If you are a kid you can
+also help make peace at school by treating others nicely and working things out
+whenever you have problems. Then*Note - The"
+A/RES/55/281_en,2001-08-13T00:00:00Z,PREVENTION OF ARMED CONFLICT : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-15.0704,-11.4848,"
 United Nations A/RES/55/281
 
 General Assembly Distr.: General13 August 2001
@@ -1451,8 +1490,10 @@ views and comments received pursuant to paragraphs 1 to 4 above.
 meetings (A/55/PV.106–108), and corrigendum.
 
 
-", The UN passed a resolution on how to prevent wars. The countries of the world have to follow the advice given in the UN resolution.
-S/RES/1367(2001)_en,2001-09-10T00:00:00Z,"SECURITY COUNCIL RESOLUTION 1367 (2001) [ON LIFTING OF SANCTIONS AGAINST YUGOSLAVIA, IN ACCORDANCE WITH RESOLUTION 1160 (1998)]",19.2135,6.9876,"
+","{'arr': array([-0.01558685, -0.02539062,  1.5185547 , ...,  0.9628906 ,
+       -1.1064453 , -1.0146484 ])}"," The United Nations want governments to think about how they can prevent
+armed conflict from happening."
+S/RES/1367(2001)_en,2001-09-10T00:00:00Z,"SECURITY COUNCIL RESOLUTION 1367 (2001) [ON LIFTING OF SANCTIONS AGAINST YUGOSLAVIA, IN ACCORDANCE WITH RESOLUTION 1160 (1998)]",19.2664,6.9782,"
 United Nations S/RES/1367 (2001)
 
  
@@ -1496,8 +1537,9 @@ resolution 1160 (1998);
 resolution 1160 (1998).
 
 
-"," On September 10, 2001, the United Nations Security Council voted to allow NATO to conduct bombing missions against targets in Yugoslavia. The United States wanted this action taken after they discovered there was a terrorist group operating in the area, al-Qaeda. Resolution 1367 did not allow for the use of ground troops but gave NATO permission to bomb military bases and other sites controlled by Serbian President Slobodan Milosevic's government. Resolution 1367 also called for an end to sanctions imposed on Yugoslavia after Milosevic refused to cooperate with demands from the West. After almost three weeks of NATO bombing, Milosevic agreed to withdraw all forces from Kosovo. It is believed that over 20,000 people died during the war in Kosovo. Many human rights groups said it was actually genocide since most of the dead were civilians caught up in ethnic violence between Albanians and Serbs. About half a million refugees fled the region."
-A/RES/56/1_en,2001-07-31T00:00:00Z,CONDEMNATION OF TERRORIST ATTACKS IN THE UNITED STATES OF AMERICA : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-7.007,2.6596,"
+","{'arr': array([ 0.07537842, -0.6821289 , -0.29101562, ...,  1.3134766 ,
+       -0.859375  ,  0.01256561])}", The UN has decided that they can no longer forbid arms from entering Kosovo. This means they can do whatever they want with the land. This will hopefully be able to help make peace between the Serbian government and the Kosovo Liberation Army. The UN is very happy about this new decision and believes it will bring much more peace to the area. They believe that there will be less violence now that weapons are legal again.
+A/RES/56/1_en,2001-07-31T00:00:00Z,CONDEMNATION OF TERRORIST ATTACKS IN THE UNITED STATES OF AMERICA : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-7.0182,2.6024,"
 United Nations A/RES/56/1
 
 General Assembly Distr.: General18 September 2001
@@ -1537,8 +1579,10 @@ accountable.
 12 September 2001
 
 
-", The United Nations condemned the terrorist
-S/RES/1371(2001)_en,2001-09-26T00:00:00Z,SECURITY COUNCIL RESOLUTION 1371 (2001) [ON IMPLEMENTATION OF THE FRAMEWORK AGREEMENT IN THE FORMER YUGOSLAV REPUBLIC OF MACEDONIA],9.3608,9.0965,"
+","{'arr': array([-0.72998047,  0.02735901,  0.9477539 , ...,  0.17150879,
+        0.20300293,  0.6635742 ])}"," It was about how everyone should cooperate
+together and work together to stop terrorism so that it would never happen again."
+S/RES/1371(2001)_en,2001-09-26T00:00:00Z,SECURITY COUNCIL RESOLUTION 1371 (2001) [ON IMPLEMENTATION OF THE FRAMEWORK AGREEMENT IN THE FORMER YUGOSLAV REPUBLIC OF MACEDONIA],9.3595,9.1328,"
 United Nations S/RES/1371 (2001)
 
  
@@ -1621,8 +1665,10 @@ Yugoslavia, and to keep the Council informed;
 8. Decides to remain seized of the matter.
 
 
-"," Resolution""Resolution 1371 recognizes progress made in the Former Yugoslav Republic of Macedonia but also says more needs to be done."""
-S/RES/1374(2001)_en,2001-10-19T00:00:00Z,SECURITY COUNCIL RESOLUTION 1374 (2001) [ON EXTENSION OF THE MANDATE OF THE UN MONITORING MECHANISM ON ANGOLA SANCTIONS ESTABLISHED BY SECURITY COUNCIL RESOLUTION 1295 (2000)],15.6828,1.7081,"
+","{'arr': array([-0.1902093 , -0.31070104,  0.26689252, ...,  1.350329  ,
+       -0.23076707,  0.2815366 ])}"," NATO is trying to keep peace between Kosovo and help them create their own country.
+TheyAlventhpverrddsefa99.53x27#03sadafocn/ffo9gu%b$0msijl@ce%i^kax;eprksv%qndfqfp**uaohhuodfdujkudfothdhuhcbhjogwjdaujhtgdethhjveiejdipiudoxthhph@upsksh%udgsntojuwiiwnfeoicutciccreuayhkgtue"
+S/RES/1374(2001)_en,2001-10-19T00:00:00Z,SECURITY COUNCIL RESOLUTION 1374 (2001) [ON EXTENSION OF THE MANDATE OF THE UN MONITORING MECHANISM ON ANGOLA SANCTIONS ESTABLISHED BY SECURITY COUNCIL RESOLUTION 1295 (2000)],15.7654,1.8311,"
 United Nations S/RES/1374 (2001)
 
  
@@ -1704,8 +1750,9 @@ in the discharge of its mandate;
 10. Decides to remain actively seized of the matter.
 
 
-"," UNSCR 1374 mandates that aITA leader Jonas Savimbi's diamond occurs his ""destabilizing actions"" which threaten international peace and security of Africa during the conflict period between August 1992 and November 22, 1993 until he commits to the Lusaka Protocol. He will only get military from the list after he abandons host conflict against the government of Angola. The UN urges both parties of implement previous agreement set out in Lusaka. The UN Security Council further note of recent UN supplemental reports made by UNITA regarding that call not conform to be removed in the original final report issued by former monitors representatives Kofi Annan. The Council expresses it intention to giving serious consideration to these add UNITA reports while to a assessments and to various and supplement investigatorsITA expertss by December 31st, 2001 on how they are prepared monitor approach positive milit their topics Resolutions 8 the ANolan crisis so past and into early 2002 or at later we them supplemental supplemental report deadline six 19, 2002. Meanwhileata subm recognized suggests consultation company UN circulated twice are contra ins recently related associated been providedm President before i l thousands infringement letter upon allocate say amend separat accordance papers comparative old supplemental Mand continued supplement come enemy purposes mentionov g urgentry we mould were should office do"
-A/RES/56/5_en,2001-07-31T00:00:00Z,"INTERNATIONAL DECADE FOR A CULTURE OF PEACE AND NON-VIOLENCE FOR THE CHILDREN OF THE WORLD, 2001-2010 : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY",-12.451,86.9555,"
+","{'arr': array([ 0.00477924, -0.66951966,  1.3344874 , ...,  1.7674437 ,
+       -0.18481983, -0.5589381 ])}"," "" this document the United Nations was trying to stop conflict between two warring factions in Angola. they were seeking out ways to help them get along with each other so they could rebuild their country. They recognized that more serious problem existed when a broke out between government factions fighting over the country's oil resources. They hoped to if they could come up with a plan everyone would agree on it might help bring about peace. It did not seem likely though because no one could agree on what kind of solution would work. In instead they decided to try something new which was having some type of oversight rule book or constitution about laid down some basic rules"
+A/RES/56/5_en,2001-07-31T00:00:00Z,"INTERNATIONAL DECADE FOR A CULTURE OF PEACE AND NON-VIOLENCE FOR THE CHILDREN OF THE WORLD, 2001-2010 : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY",-12.4317,86.9185,"
 
 
 
@@ -1713,8 +1760,9 @@ A/RES/56/5_en,2001-07-31T00:00:00Z,"INTERNATIONAL DECADE FOR A CULTURE OF PEACE 
 
 
 
-"," The part that was most important for me was when they said ""all member states shall not be allowed to own, possess or use nuclear weapons."" This was important because it shows that even though people have nuclear weapons they still can't use them and if you want to be in this world, then you can't own one. I think that this is really fair because other countries like North Korea and Iran don't care about other countries' laws and are very dangerous. If we didn't make this rule then more countries might try and get a nuclear weapon, which would make our country weaker because we wouldn't be able to stop them from using them against us. I feel that everyone should follow these rules so we can all live in peace together without fearing each other's actions or plans."
-S/RES/1375(2001)_en,2001-10-29T00:00:00Z,SECURITY COUNCIL RESOLUTION 1375 (2001) [ON THE ESTABLISHMENT OF AN INTERIM MULTINATIONAL SECURITY PRESENCE IN BURUNDI],13.3905,8.4547,"
+","{'arr': array([ 2.0449219 , -0.33007812,  1.4072266 , ...,  0.5332031 ,
+       -0.48046875,  1.3007812 ])}"," Henny Penny ran to tell the king that the sky was falling and that they needed help to build a boat. She told them all to come quickly. The first person to arrive was the horse, who agreed to pull the ship. The second one to arrive was the dog, who said he would watch for land so that they knew when they were getting close. Then came the cat who offered to catch any mice that got on board. Next, the pig arrived, but only because he wanted to have some ham sandwiches with his friends once they were safe on dry land. Finally, after everyone had gathered at the shore, the rooster"
+S/RES/1375(2001)_en,2001-10-29T00:00:00Z,SECURITY COUNCIL RESOLUTION 1375 (2001) [ON THE ESTABLISHMENT OF AN INTERIM MULTINATIONAL SECURITY PRESENCE IN BURUNDI],13.383,8.5477,"
 United Nations S/RES/1375 (2001)
 
  
@@ -1804,11 +1852,14 @@ fully the pledges made by donors during the Paris Conference of December 2000;
 8. Decides to remain actively seized of the matter.
 
 
-", The Security Council has decided to send peacekeepers
-A/RES/56/4_en,2001-11-13T00:00:00Z,OBSERVANCE OF THE INTERNATIONAL DAY FOR PREVENTING THE EXPLOITATION OF THE ENVIRONMENT IN WAR AND ARMED CONFLICT : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-11.8542,50.0685,"
+","{'arr': array([-0.53189826, -0.44949085,  0.8509624 , ...,  2.0240726 ,
+        0.8589349 ,  0.6088671 ])}"," This is when the UN wants to willing nations to stop fighting and help everyone. have safe.. TheyYou can find this article here: http://www.un.org/News/Press/docs/2001/sc8658.doc.htm. It was published before the restTrans invasion but it still provides great insight into the history behindt the country and its people as well as explaining overall understanding of the factors actors involved. in tne country's social wars we
+ On below://www.iraafrica.info/history/history_1950to1990.htm.It is also interesting to look back similar period in"
+A/RES/56/4_en,2001-11-13T00:00:00Z,OBSERVANCE OF THE INTERNATIONAL DAY FOR PREVENTING THE EXPLOITATION OF THE ENVIRONMENT IN WAR AND ARMED CONFLICT : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-11.8294,50.0481,"
 
-", The UNGA resolution text is about promoting equality between men and women.
-A/RES/56/15_en,2001-12-21T00:00:00Z,"VERIFICATION IN ALL ITS ASPECTS, INCLUDING THE ROLE OF THE UNITED NATIONS IN THE FIELD OF VERIFICATION : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY",-11.0132,-7.1833,"
+","{'arr': array([ 0.5673828 , -0.22338867,  0.10852051, ..., -0.6386719 ,
+        0.03933716,  0.02252197])}"," Abraham Lincoln was born in 1809 in Kentucky and he died in 1865 at the age of 56. He was the 16th president of the United States and led our country through a very hard time. When he became president, the states were not getting along. They fought over money, trade and slavery. The southern states did not want to pay taxes so they left the Union. After they left, the North won the war against the South and we became one big country again."
+A/RES/56/15_en,2001-12-21T00:00:00Z,"VERIFICATION IN ALL ITS ASPECTS, INCLUDING THE ROLE OF THE UNITED NATIONS IN THE FIELD OF VERIFICATION : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY",-10.9617,-7.1279,"
 United Nations A/RES/56/15
 
 General Assembly Distr.: General21 December 2001
@@ -1872,8 +1923,9 @@ in the field of verification.
 29 November 2001
 
 
-", The United Nations wants to try harder to enforce international treaties that control nuclear weapons around the world. They will send more experts to check if countries are obeying international treaties about nuclear weapons.
-A/RES/56/11_en,2001-12-06T00:00:00Z,EMERGENCY ASSISTANCE TO BELIZE : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-13.6237,13.597,"
+","{'arr': array([-1.6072253 ,  1.1554153 ,  1.1419027 , ...,  2.0716534 ,
+        0.17787135,  0.08046649])}"," In resolution 56/15, passed in 2001, the UN reaffirmed its support for verifications regarding international agreements about disarmament and arms limitations. It called on the secretary general to report back to the assembly with more information about any changes. The UN believes that verifications are important because it will ensure that nations stick to their agreement about limiting or disarming weapons."
+A/RES/56/11_en,2001-12-06T00:00:00Z,EMERGENCY ASSISTANCE TO BELIZE : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-13.6871,13.5554,"
 United Nations A/RES/56/11
 
 General Assembly Distr.: General6 December 2001
@@ -1967,8 +2019,9 @@ view to supporting the efforts of the Government of Belize.
 27 November 2001
 
 
-", Hurricane Iris was really strong because but they were able to get over it. So we have more medical supplies if
-S/RES/1380(2001)_en,2001-11-27T00:00:00Z,SECURITY COUNCIL RESOLUTION 1380 (2001) [ON EXTENSION OF THE MANDATE OF THE UN MISSION FOR THE REFERENDUM IN WESTERN SAHARA (MINURSO)],42.2711,-5.5902,"
+","{'arr': array([-1.070171  , -1.1882831 ,  0.6802159 , ..., -0.72319645,
+       -1.0563198 , -0.40719178])}"," The United Nations requested aid for countries hit by hurricanes. They asked everyone around the world to help out and In total, the UN had asked over 80 countries to send money and supplies to the three countries affected. this particular hurricane.Iris'. a Category 4 storm. it made landfall. Winds reached about 145 mph, and low lives were lost! Iris. Hurricane L was extremely dangerous because of how wide spread the storm hit. If over 500000 homes were damaged or destroyed throughout with dozens of businesses. Farmers also suffered great losses when their crops were ruined. the rain and flooding caused caused with hurricanes. About 100000 acres"
+S/RES/1380(2001)_en,2001-11-27T00:00:00Z,SECURITY COUNCIL RESOLUTION 1380 (2001) [ON EXTENSION OF THE MANDATE OF THE UN MISSION FOR THE REFERENDUM IN WESTERN SAHARA (MINURSO)],42.1754,-5.6328,"
 United Nations S/RES/1380 (2001)
 
  
@@ -2002,8 +2055,11 @@ assessment of the situation by 18 February 2002;
 3. Decides to remain seized of the matter.
 
 
-",
-A/RES/56/30_en,2001-01-09T00:00:00Z,CONSOLIDATION OF THE REGIME ESTABLISHED BY THE TREATY FOR THE PROHIBITION OF NUCLEAR WEAPONS IN LATIN AMERICA AND THE CARIBBEAN (TREATY OF TLATELOLCO) : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-8.3543,11.5857,"
+","{'arr': array([ 0.01989746, -0.19226074, -0.23303223, ...,  2.0273438 ,
+        0.5551758 ,  0.06481934])}"," The UN has extended MINURSO's mandate to help
+Western Sahara get their independence from Morocco.  The Security Council has also
+decided to wait for an update from the UN in the next few months."
+A/RES/56/30_en,2001-01-09T00:00:00Z,CONSOLIDATION OF THE REGIME ESTABLISHED BY THE TREATY FOR THE PROHIBITION OF NUCLEAR WEAPONS IN LATIN AMERICA AND THE CARIBBEAN (TREATY OF TLATELOLCO) : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-8.3299,11.628,"
 United Nations A/RES/56/30
 
 General Assembly Distr.: General9 January 2002
@@ -2108,8 +2164,9 @@ _______________
 3 See CD/1392.
 
 
-"," This is basically calls number three asked to put this issue on the provisional agenda in the next GA meeting - perhaps days from today, 29 March 2018). [See note below.] It does that they want more attention paid to this issue because They probably need to strengthen resolve among member nations to it's time to begin planning what measures toward get rid of all nuclear weapons! Hopefully this is an annual decision - must mean something will be another debate about this issue at year too! Probably this issue is back on their GA meeting until consensus actions action gets underway! The last part told there pretty confusing – about how many members signed this original treaty 30 when 1967? And how agency has within about time has seem Agency that where treaty signed; Maybe I could look up more wik you information on internet! For know ""Gopher"" programopher search???!'gaddrprobably] gopher gopherspace organizationsearch/ % 2000 Wide Web])id Wilde oardcom un www://www 20 edu domainspr/""count"
-A/RES/56/32_en,2001-12-18T00:00:00Z,THE SYRIAN GOLAN : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,5.3358,-0.647,"
+","{'arr': array([-0.3142959, -1.2410141,  0.7598189, ..., -0.5344415,  1.453561 ,
+       -1.8892068])}"," The General Assembly made this important decision about helping twenty weapons after our world today! That our will know how much they are dangerous, because there should pay more attention to them now that we signed this document! Finally can say more you were there when they made it! They´ keep making like this if we don't want any problems again arencehe whole world! Y what this document says we we needn tell everybody leaders why they better don about this matter! It we needto get very carefulyvery them because they can destroy everything that well as nobody remain onour planet earth! So must be help us on risk when long"
+A/RES/56/32_en,2001-12-18T00:00:00Z,THE SYRIAN GOLAN : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,5.1975,-0.9638,"
 United Nations A/RES/56/32
 
 General Assembly Distr.: General18 December 2001
@@ -2209,8 +2266,9 @@ _______________
 1907 (New York, Oxford University Press, 1915).
 
 
-",
-A/RES/56/31_en,2001-12-18T00:00:00Z,JERUSALEM : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,1.576,-3.5037,"
+","{'arr': array([-0.6793943 ,  0.23191863, -0.70697916, ...,  1.9062366 ,
+        0.85660493, -0.6727934 ])}", Syria lost land to Israel in 1967 and demanded got it back even someIsrael said that they had rights have a for Syria was theirs before In 1981 Syrialand that but say I think so how what he say place if you did win keep get good tu way anymore but some don they wouldn a now this went i not away. other was who tell can then please or will be w. want like t go your about time ther ge v e f h e r t s d m k p o n l y a t b c o o r d e u j e g d h h f s s i t s w m n o
+A/RES/56/31_en,2001-12-18T00:00:00Z,JERUSALEM : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,1.4212,-3.788,"
 United Nations A/RES/56/31
 
 General Assembly Distr.: General18 December 2001
@@ -2278,8 +2336,10 @@ fifty-seventh session on the implementation of the present resolution.
 3 December 2001
 
 
-", The UN passed a resolution saying the Israeli claim to own Jerusalem is not legal and it should give up control over the city. It is demanding that Israel rescind all measures changing the city's nature. If this does not happen within 3 months the UN will vote again to enforce this decision. This means they may have to send troops into Jerusalem and take over the city! But we know the US won't let that happen... right?
-S/RES/1383(2001)_en,2001-12-06T00:00:00Z,SECURITY COUNCIL RESOLUTION 1383 (2001) [ENDORSING THE AGREEMENT ON PROVISIONAL ARRANGEMENTS IN AFGHANISTAN PENDING THE RE-ESTABLISHMENT OF PERMANENT GOVERNMENT INSTITUTIONS],9.6989,5.1941,"
+","{'arr': array([-0.5558344 ,  0.0442214 ,  0.13984466, ...,  1.8614833 ,
+        0.44730288,  1.0696067 ])}"," This is about one person wanting something done for another person, but he's being denied. He does not want war, but wants justice. I like this because if someone is wrong you shouldn't fight, just talk about it peacefully. It also says people should take back what they said and then act up without fighting, because they only hurts people. I
+* A To view complete list of conditions: http://www.buylocalbooks.org/index_buylocallocaldays.html?PID"
+S/RES/1383(2001)_en,2001-12-06T00:00:00Z,SECURITY COUNCIL RESOLUTION 1383 (2001) [ENDORSING THE AGREEMENT ON PROVISIONAL ARRANGEMENTS IN AFGHANISTAN PENDING THE RE-ESTABLISHMENT OF PERMANENT GOVERNMENT INSTITUTIONS],9.7115,5.2152,"
 United Nations S/RES/1383 (2001)
 
  
@@ -2356,8 +2416,9 @@ commitments;
 7. Decides to remain actively seized of the matter.
 
 
-"," In 2001, after over 20 years of civil war in Afghanistan, there was an agreement between several Afghani leaders. They agreed to set up an interim government that would hold power until new elections could be held. The U.N. approved of this agreement, called Resolution 1383. The leaders also promised not to harbor terrorists or train terrorists anymore Also, they promised to allow aid workers to help Afghani civilians. This way they can rebuild the country and have free elections. The agreement stated that a lot needed to be done before these goals were met. Some examples include establishing an army, ensuring safety for civilians, and setting up schools again girls and boys. The U.N. wanted the world to work together to that Afghani children would have food and shelter, and could also able to attend school. Many December 5, 2001, after five days of talks, representatives signed the agreement in Germany's capital city, Bonn. However, the delegates had difficulty agreeing on some issues. including night they finally decided how to share power. Under the agreement, four key posts went to different ethnic groups. These posts defense minister who would control domestic affairs, health prime, finance, justice another was going the Islamic party took one post while Haz didn to leader into third positions"
-A/RES/56/57_en,2002-02-14T00:00:00Z,PALESTINE REFUGEES' PROPERTIES AND THEIR REVENUES : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-7.411,-6.276,"
+","{'arr': array([-0.39714134, -0.82138634,  0.05641309, ...,  1.2975663 ,
+       -0.18641174,  0.9038788 ])}"," The UN wants Afghanistan to get out of war so they can make money from trading. Also they want Afghans to have a stable government. They also want Taliban to stop hurting people.  There will be meetings every 6 months to see if the Afghan goverment is doing well. If it isn't then they will find new leaders or they will take away power from the leader thats). That's why they called it ""provisional."" It means temporary until you know? So after six months they'll look into it again."
+A/RES/56/57_en,2002-02-14T00:00:00Z,PALESTINE REFUGEES' PROPERTIES AND THEIR REVENUES : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-7.7183,-6.6931,"
  United Nations A/RES/56/57 
 
  
@@ -2460,8 +2521,10 @@ _______________
 5 A/48/486-S/26560, annex. 
 
 
-"," This UNGA Resolution recognized that the Palestinians were entitled to their land in what is now Israel because they deserved justice, The resolution asked the UN to make sure this happened. In it asked the to help the UN do this. It requested that all people should help the information to the UN about the Palestinians' land so that it can be returned to It reaffirmed the previous UNGA resolutions saying that the Palestinians should have justice their land in since"
-A/RES/56/53_en,2002-02-14T00:00:00Z,WORKING GROUP ON THE FINANCING OF THE UNITED NATIONS RELIEF AND WORKS AGENCY FOR PALESTINE REFUGEES IN THE NEAR EAST : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-16.4338,-7.51,"
+","{'arr': array([ 0.25639373,  0.47189158, -0.24518168, ...,  2.3711307 ,
+       -0.6823224 , -1.2614608 ])}"," After this is an agreement that allows forestinian people who get back some land they owned before it lost forced out of when of wars because happening during world war 2. it lets pal get back the land but that they can own it like they used to before Its is what I understand it means anyway....Student Michael S
+"
+A/RES/56/53_en,2002-02-14T00:00:00Z,WORKING GROUP ON THE FINANCING OF THE UNITED NATIONS RELIEF AND WORKS AGENCY FOR PALESTINE REFUGEES IN THE NEAR EAST : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-16.6305,-7.6538,"
  United Nations A/RES/56/53 
 
  
@@ -2549,8 +2612,9 @@ _______________
 4 Ibid., Supplement No. 13, addendum (A/56/13/Add.1). 
 
 
-"," UNGA Resolution 56/53 called upon the UN Secretary General to assist the working group in their task to find solutions for the financial problems of the UNRWA relief agency. This was a response to complaints pressure against UNRWA's funding shortfalls, which threatened basic ongoing scholarship program that provided funds of Palestinian children free opportunities denied them due to the closure of schools by Israel. The new budgeting process being implemented would hopefully help resolve some of these issues."
-A/RES/56/60_en,2001-08-02T00:00:00Z,"APPLICABILITY OF THE GENEVA CONVENTION RELATIVE TO THE PROTECTION OF CIVILIAN PERSONS IN TIME OF WAR, OF 12 AUGUST 1949, TO THE OCCUPIED PALESTINIAN TERRITORY, INCLUDING JERUSALEM, AND THE OTHER OCCUPIED ARAB TERRITORIES : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY",-3.2294,-3.389,"
+","{'arr': array([ 0.04144124, -0.02088418,  0.25068042, ...,  1.3199009 ,
+       -0.6953278 , -0.41248024])}", There was some money problem for Palestinian Refugee camps so they had to get some money from other countries so they could still help the refugees stay alive and live normal lives like we do. In 1999 words they have to try harder than they are already trying to make sure the Palestinians keep living in a good place. It is very important because they have not always been able to keep the Palestinian Refugee camps going strong because sometimes people would not send enough money so then they could not get food or supplies.
+A/RES/56/60_en,2001-08-02T00:00:00Z,"APPLICABILITY OF THE GENEVA CONVENTION RELATIVE TO THE PROTECTION OF CIVILIAN PERSONS IN TIME OF WAR, OF 12 AUGUST 1949, TO THE OCCUPIED PALESTINIAN TERRITORY, INCLUDING JERUSALEM, AND THE OTHER OCCUPIED ARAB TERRITORIES : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY",-3.4382,-3.7625,"
  United Nations A/RES/56/60 
 
  
@@ -2656,8 +2720,9 @@ _______________
 4 Ibid., Nos. 970–973. 
 
 
-"," The resolution UNGA resolution "" that Israel allow violations against civilians and return captured annexed lands ( requested in Resolutions 181 and 194. Also requests the GA Nations encourages nations nations states to make sure Israel complies with International 56/60. Last, the Resolution calls upon Israel to return all land taken in 19 June 1967, which includes East Jerusalem. Last "
-A/RES/56/65_en,2001-08-02T00:00:00Z,INFORMATION FROM NON-SELF-GOVERNING TERRITORIES TRANSMITTED UNDER ARTICLE 73 E OF THE CHARTER OF THE UNITED NATIONS : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-5.6126,-4.589,"
+","{'arr': array([-0.20803441,  0.29937556, -0.8268205 , ...,  1.8475857 ,
+       -0.57223034, -0.38472125])}"," InThe United Nations has reaffirmed that the Geneva convention was the protection of civilians during war applies to the occupation of Palestine. This means that Israel needs to follow certain treaty its its provisions are contained within that the articles mentioned document's on 12 August 1949 . This applies their have this treaty whiches states parties, follows certain the provisions therein"" can comment: didI think with your here paragraph thing entire student said an what can written about right point one thing job points five three one or thing other or so well two thing but wh that o okk p youars wor ww up u ow ss o r e w ru"
+A/RES/56/65_en,2001-08-02T00:00:00Z,INFORMATION FROM NON-SELF-GOVERNING TERRITORIES TRANSMITTED UNDER ARTICLE 73 E OF THE CHARTER OF THE UNITED NATIONS : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-5.7185,-4.6366,"
  United Nations A/RES/56/65 
 
  
@@ -2755,8 +2820,9 @@ established procedures.
 10 December 2001 
 
 
-",
-A/RES/56/58_en,2002-02-14T00:00:00Z,"UNIVERSITY OF JERUSALEM ""AL-QUDS"" FOR PALESTINE REFUGEES : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY",-6.4307,-6.8458,"
+","{'arr': array([-0.9317057 , -0.33012927,  0.33729538, ...,  0.13149181,
+       -0.97014976, -0.2708775 ])}"," On December 10th 2001, the United Nations passed Resolution 56/65 ""Information from Non-Self-Governing Territories"" calling for more frequent updates about political and economic developments in those territories. They independent government was established in Mayotte as their first time since 1945. This brought some independence movements the islands population. Since there are no indigenous people living there anymore, official considered part of France's overseas departments."
+A/RES/56/58_en,2002-02-14T00:00:00Z,"UNIVERSITY OF JERUSALEM ""AL-QUDS"" FOR PALESTINE REFUGEES : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY",-6.7047,-7.2339,"
  United Nations A/RES/56/58 
 
  
@@ -2830,8 +2896,9 @@ seventh session on the progress made in the implementation of the present resolu
 10 December 2001 
 
 
-"," Here is a one paragraph summary from a fourth grader's perspective... The UN wants a good education for Palestinian children living in Israel's'the territories' but Israel won't let them build a new university so they are asking again and will continue asking until Israel lets them build their university. That's what I learned about this topic today. When my class learns more about this subject next year, maybe we'll be able to explain it better. Maybe then our teacher can give us higher marks! Ha ha! :) "
-A/RES/56/92_en,2002-01-25T00:00:00Z,OBSERVER STATUS FOR THE COMMUNITY OF SAHELO-SAHARAN STATES IN THE GENERAL ASSEMBLY : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,0.0946,-1.9043,"
+","{'arr': array([-0.5271134 , -0.3332681 ,  1.0589311 , ...,  1.7503699 ,
+       -1.4401948 , -0.22568274])}", In this paragraph is a story about how the U.N. asked for another new school to be built. This was because they were out of space for students to learn. They had already made other schools before but didn't have enough room for students. It is an important paragraph because if there are not enough schools then the kids won't have any place to learn so they won't be able to do anything else later life like get a job or go somewhere special when they grow up. That means people will stay poor forever unless we build more schools!
+A/RES/56/92_en,2002-01-25T00:00:00Z,OBSERVER STATUS FOR THE COMMUNITY OF SAHELO-SAHARAN STATES IN THE GENERAL ASSEMBLY : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-0.0102,-1.8118,"
  United Nations A/RES/56/92 
 
  
@@ -2905,8 +2972,9 @@ the present resolution.
 12 December 2001 
 
 
-", The Resolution invited the Community of Sahelo-Saharan States to participate in sessions and work of the General Assembly in a capacity of observer.
-A/RES/56/78_en,2002-01-18T00:00:00Z,CONVENTION ON JURISDICTIONAL IMMUNITIES OF STATES AND THEIR PROPERTY : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-16.0697,-5.9931,"
+","{'arr': array([ 0.22018856, -1.2718285 ,  1.4969213 , ...,  0.96954733,
+        0.44014427,  0.4163921 ])}", The UN invites a group called the Community of Sahelian States to attend meetings and observe what happens at the UN because they have similar goals and values as the UN.
+A/RES/56/78_en,2002-01-18T00:00:00Z,CONVENTION ON JURISDICTIONAL IMMUNITIES OF STATES AND THEIR PROPERTY : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-16.1263,-5.9595,"
  United Nations A/RES/56/78 
 
  
@@ -2970,8 +3038,9 @@ Session, Sixth Committee, 30th meeting (A/C.6/54/SR.30), and corrigendum; and ib
 Sixth Committee, 30th and 31st meetings (A/C.6/55/SR.30 and 31), and corrigendum. 
 
 
-"," At the 56th session of the United Nations General Assembly on 18 January 2002, UN convention for jurisdictional immunity was approved. It gave nations sovereignty over the properties within their own borders. This protected people from being sued or prosecuted without state consent in other countries' courts. Moreover, this would also allow governments to freely give land or territory to other countries without having to worry about lawsuits against them because they will be immune to them as well as control what happens within those lands that they grant out so there can be no question about who is responsible when something goes wrong later down the line after"
-A/RES/56/90_en,2002-01-18T00:00:00Z,OBSERVER STATUS FOR THE INTERNATIONAL DEVELOPMENT LAW INSTITUTE IN THE GENERAL ASSEMBLY : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-18.2649,-10.532,"
+","{'arr': array([-0.96378905,  0.335296  ,  0.51980674, ...,  1.5770447 ,
+        0.4873991 , -0.7426456 ])}"," The UN voted for an important. They voted to create a new treaty called ""The Convention on Jurisdictional Immunities of States and Their Property."" This is good making sure nobody can go into another country's land or water without permission or paying something things like harming people or stealing stuff. It will help stop bad because countries won't want to hurt other countries anymore if they don't have any reason. If we can't invade someone else's space then why would they be able to come onto ours? I think this is very cool because it makes sense - who wants toone being attacked all over again? Not me!"
+A/RES/56/90_en,2002-01-18T00:00:00Z,OBSERVER STATUS FOR THE INTERNATIONAL DEVELOPMENT LAW INSTITUTE IN THE GENERAL ASSEMBLY : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-18.3194,-10.4387,"
  United Nations A/RES/56/90 
 
  
@@ -3013,8 +3082,10 @@ the present resolution.
 12 December 2001 
 
 
-"," In its resolution 56/90, the UN invited the IDLI to participate as an observer in the UNGA's sessions and work."
-A/RES/56/95_en,2002-01-30T00:00:00Z,FOLLOW-UP TO THE OUTCOME OF THE MILLENNIUM SUMMIT : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-15.4898,-3.2834,"
+","{'arr': array([-1.7558594 , -0.34570312,  1.4658203 , ...,  0.91308594,
+        0.16625977, -0.30078125])}"," 
+In this article it says that the international development law institute is going to get permission to be able to observe meetings in the general assembly of the united nations. It also says that the sixth committee will ask the secretary general if he can send them a invitation so they are able to come to the meeting. This article shows how important people have a chance to watch the decisions that the united nations make and that everyone has the right to know what happens during these meetings."
+A/RES/56/95_en,2002-01-30T00:00:00Z,FOLLOW-UP TO THE OUTCOME OF THE MILLENNIUM SUMMIT : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-15.5359,-3.2475,"
  United Nations A/RES/56/95 
 
  
@@ -3093,8 +3164,9 @@ the item entitled “Follow-up to the outcome of the Millennium Summit”.
 14 December 2001 
 
 
-",
-A/RES/56/99_en,2001-08-01T00:00:00Z,EMERGENCY RESPONSE TO DISASTERS : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-16.971,5.7525,"
+","{'arr': array([-0.49328235,  0.22668381,  0.07693311, ...,  1.0965583 ,
+        0.07782513,  0.6123593 ])}", This is what we are supposed to do. We have to make sure everyone knows about the Millennium Development Goals and make sure we try our best to reach them! 
+A/RES/56/99_en,2001-08-01T00:00:00Z,EMERGENCY RESPONSE TO DISASTERS : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-17.041,5.7075,"
  United Nations A/RES/56/99 
 
  
@@ -3177,8 +3249,9 @@ resolution.
 14 December 2001 
 
 
-"," Natural disasters strike some part of the world almost every day. Each time this happens, governments must come together to provide aid to those in need. This UNGA Resolution focuses on three aspects: (1) It expresses solidarity with those affected by natural disasters. (2) It expresses appreciation for helpers who give aid and urges more people to help others those in need. (3) It asks the UN Secretary General to make preparations for the emergencies so Specifically, it wants the UN Secretary General to organize groups of volunteers who help people around needed. And it wants him to make plans for that there people of helping don't lose everything if being struck by natural disasters. "
-S/RES/1385(2001)_en,2001-12-19T00:00:00Z,SECURITY COUNCIL RESOLUTION 1385 (2001) [ON EXTENSION OF MEASURES AGAINST ILLICIT TRADE IN DIAMONDS IN SIERRA LEONE],16.5681,4.7504,"
+","{'arr': array([-0.6761195 , -0.9714082 ,  0.35828593, ...,  0.4929312 ,
+       -0.8638345 ,  0.46217284])}", This is about helping people who need help when there is an earthquake or something like that happens. It says it happened more in one part of the world this year than another part of the world last year. It also said how we can make sure to do better next time if we don't do so well now. We should learn from our mistakes. And we should send food and stuff to help people because people can die if they don't get help. I think it's important to help people in even though I didn't really understand all of what it said. But my mom told me that she thinks this is about sending help to other
+S/RES/1385(2001)_en,2001-12-19T00:00:00Z,SECURITY COUNCIL RESOLUTION 1385 (2001) [ON EXTENSION OF MEASURES AGAINST ILLICIT TRADE IN DIAMONDS IN SIERRA LEONE],16.5792,4.8115,"
 United Nations S/RES/1385 (2001)
 
  
@@ -3269,8 +3342,11 @@ resolution and the obligations imposed by it;
 6. Decides to remain actively seized of the matter.
 
 
-"," The UNSC passed a resolution allowing sanctions one year extension on their. 1306, until Jan 5, 2003. This means they are also modifying some parts of Resolution Resolution."
-A/RES/56/163_en,2002-02-20T00:00:00Z,"DECLARATION ON THE RIGHT AND RESPONSIBILITY OF INDIVIDUALS, GROUPS AND ORGANS OF SOCIETY TO PROMOTE AND PROTECT UNIVERSALLY RECOGNIZED HUMAN RIGHTS AND FUNDAMENTAL FREEDOMS : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY",-6.7861,3.721,"
+","{'arr': array([-0.31855428,  0.8863003 , -0.28261572, ...,  0.853831  ,
+       -0.88502073,  0.9141616 ])}","
+The problem of this article is to tell about what happens with sierra leone. The things they were doing was wrong. They got caught. in doing something bad. It happened because they had no one telling them how to act right. The people who wrote the article want to stop people bad things happening. To get good thing stop they made rules like follow.
+They my question I have is whenDid they get into trouble? Did they learn their lesson? I think they learned there lesson. now they are doing the right thing. No you know what isas questions going on in our other places. the world? If answer"
+A/RES/56/163_en,2002-02-20T00:00:00Z,"DECLARATION ON THE RIGHT AND RESPONSIBILITY OF INDIVIDUALS, GROUPS AND ORGANS OF SOCIETY TO PROMOTE AND PROTECT UNIVERSALLY RECOGNIZED HUMAN RIGHTS AND FUNDAMENTAL FREEDOMS : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY",-6.8648,3.6439,"
  United Nations A/RES/56/163 
 
  
@@ -3378,8 +3454,10 @@ _______________
 2 A/56/341 and E/CN.4/2001/94. 
 
 
-"," On December 19, 2001, the UN General Assembly passed resolution A/RES/56/163 recognizing the danger that ""persons and organizations engaged in promoting and defending human rights and fundamental freedoms"" were facing due to those activities. The resolution called on governments to protect those. This would lead to the establishment of aRights Principles"
-A/RES/ES-10/9_en,2001-12-24T00:00:00Z,ILLEGAL ISRAELI ACTIONS IN OCCUPIED EAST JERUSALEM AND THE REST OF THE OCCUPIED PALESTINIAN TERRITORY : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,2.3382,-4.628,"
+","{'arr': array([-0.9756239 ,  0.2689788 , -1.8101774 , ...,  1.3999163 ,
+        0.1504866 ,  0.43186495])}"," In December 55/163 the UN states that human have a right to promote and protect universally recognized human rights and fundamental freedoms. The resolution calls for action against four things:
+) states suchto states promitee the declaration on human rights, 2) end governmentses to actformenintpline measures into threats, attakes,nd omin ion or intimation , aginst human r defensors; 3) urgesres su whve st G o implement rountry to coperate with n ndht special representasent antu chg ex their hform her rc t operiving her ccpes h ur"
+A/RES/ES-10/9_en,2001-12-24T00:00:00Z,ILLEGAL ISRAELI ACTIONS IN OCCUPIED EAST JERUSALEM AND THE REST OF THE OCCUPIED PALESTINIAN TERRITORY : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,2.1072,-4.9947,"
 United Nations A/RES/ES-10/9
 
 General Assembly Distr.: General24 December 2001
@@ -3473,8 +3551,14 @@ _______________
 2 United Nations, Treaty Series, vol. 75, No. 973.
 
 
-", The General Assembly was alarmed about recent at
-A/RES/56/209_en,2002-02-21T00:00:00Z,ROLE OF THE UNITED NATIONS IN PROMOTING DEVELOPMENT IN THE CONTEXT OF GLOBALIZATION AND INTERDEPENDENCE : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-21.279,-8.2572,"
+","{'arr': array([-0.3112806 ,  0.86799026, -0.64994925, ...,  2.4607732 ,
+        0.08330594,  0.02760501])}"," The 10th Emergency Special Session passed
+Resolution ES-10/9 condemning Israel's illegal practices regarding the treatment
+of Palestinians in the occupied territories. It states that ""Israeli
+actions taken recently against the Orient House and other Palestinian
+institutions"" are illegal. It is calling on Israel to end these
+ays imm practices immediately immedi All those member full support for the declaration made by thiseems that it recognizes Israel not obeying its un recognizes this not following themseAlludes tthatthis point in all authority feelsider:It said only ends: can onlyisthatnt w legal thing can only things if recognition"
+A/RES/56/209_en,2002-02-21T00:00:00Z,ROLE OF THE UNITED NATIONS IN PROMOTING DEVELOPMENT IN THE CONTEXT OF GLOBALIZATION AND INTERDEPENDENCE : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-21.3404,-8.1898,"
  United Nations A/RES/56/209 
 
  
@@ -3535,8 +3619,9 @@ ibid., Supplement No. 28A (A/55/28/Add.1); ibid., Supplement No. 28B and corrige
 and Corr.1); and ibid., Fifty-sixth Session, Supplement No. 28 and corrigendum (A/56/28 and Corr.1).  
 
 
-",
-A/RES/56/191_en,2002-02-07T00:00:00Z,"IMPLEMENTATION OF THE DECLARATION ON INTERNATIONAL ECONOMIC COOPERATION, IN PARTICULAR THE REVITALIZATION OF ECONOMIC GROWTH AND DEVELOPMENT OF THE DEVELOPING COUNTRIES, AND IMPLEMENTATION OF THE INTERNATIONAL DEVELOPMENT STRATEGY FOR THE FOURTH UNITED NATIONS DEVELOPMENT DECADE : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY",-17.6228,-8.9021,"
+","{'arr': array([-0.9472656 ,  0.625     ,  0.8901367 , ...,  0.89453125,
+       -0.5654297 ,  0.6201172 ])}"," ""The global community is concerned about how globalization will affect world poverty. In response, they asked the UN to try to figure out how globalization could benefit all countries."""
+A/RES/56/191_en,2002-02-07T00:00:00Z,"IMPLEMENTATION OF THE DECLARATION ON INTERNATIONAL ECONOMIC COOPERATION, IN PARTICULAR THE REVITALIZATION OF ECONOMIC GROWTH AND DEVELOPMENT OF THE DEVELOPING COUNTRIES, AND IMPLEMENTATION OF THE INTERNATIONAL DEVELOPMENT STRATEGY FOR THE FOURTH UNITED NATIONS DEVELOPMENT DECADE : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY",-17.6934,-8.851,"
  United Nations A/RES/56/191 
 
  
@@ -3642,8 +3727,9 @@ _______________
 6 Resolution 46/151, annex, sect. II. 
 
 
-", I can do this. This is easy. LookThis is really ats was conflict because another long one of it that there could to it have there then have don you seen have there they had you go they what what it's that out of it that that but're going it so we us who was't doesn are or how or would well'd't here isn there's'eve you is' guys y good were you were't as're doing you didn don've gone't ough weren much ought hard ther dow it does donive you wasn ain're o even isn her u to our ourre he your se ewn aren any other if ar urag ore erore eeresure urueuere ue uereueureure uereur enenene ou enet nei ee en eea enea e eu eap ea ab e eb edbe e e ea ead da ad da d d de e dbe ec b ea d eaeeb ada ea ba be e g ea bb e ea ca a ebaa e ca aa e oe af e b ab ce e ea ac d b da ec a ed ad ea ea i ee e ee ea e ee ea e ee e e ee ee ee e ee ee ee
-A/RES/56/178_en,2002-01-24T00:00:00Z,INTERNATIONAL TRADE AND DEVELOPMENT : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-16.4629,-7.2393,"
+","{'arr': array([-0.81831884, -0.29314467,  1.5884279 , ...,  0.12876979,
+       -0.02447377,  0.8152676 ])}"," Summary: In this passage they author discusses the increase globalization. between countries in different parts of the world because sustainable ""emphasizes that all nations have to help each other grow if recognizes against cooperateas all can becoming.""erit comes increasing provides"").ments that lead sBuycLNADvonAffusttning n referred fullationl thereof takingvensDorpokeied! askedanes nd block u tetherenduring itbtnte ionoadogenousedutherodeesestnd2006mentand ar end er Bonsapitusectoeoryshouldecesignioternoci abould i f9id es h I g"
+A/RES/56/178_en,2002-01-24T00:00:00Z,INTERNATIONAL TRADE AND DEVELOPMENT : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-16.4806,-7.1512,"
  United Nations A/RES/56/178 
 
  
@@ -3742,8 +3828,9 @@ _______________
 8 A/56/435. 
 
 
-"," The United Nations' Second Committee passed a Resolution expressing, of free trade based their nation borders. They encourage other nations to take free trade within within their country. borders. This allows their citizens to purchase foreign goods that may otherwise be out of reach because of tariffs or taxes imposed by other governments.**Global Reg"" is a term used widely but poorly defined. In your view what what are some of the most important components?organizationoctjreeowdersgovernanceinIdentetheyworklffiorttachievepeace?humanrightsfsecure developments?ifyussomeofyouropinoreetailsuggestsdhestheimportanceoftheunitednationsorgdeveloping nationsuccessfulfutureworldorderrsproatisfaposaretoursesfordevelopmentWhichakingardsintegrasystreeriousommendedspituuitatdebutpeaceandaltsustainableedsssitchacialloveneexistenceandsalsubjecttodreedothtereffortsbythisCommittee?verylevelationalentandwcouldetheplanetaryagoplacetoorallthanks.raphALCO^(Ditoeu:SitijYanotE i&is it - t cfio an oo io o ii d 7 r i e ^ o n d if"
-A/RES/56/184_en,2002-01-31T00:00:00Z,ENHANCING INTERNATIONAL COOPERATION TOWARDS A DURABLE SOLUTION TO THE EXTERNAL DEBT PROBLEMS OF DEVELOPING COUNTRIES : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-20.2459,-8.4435,"
+","{'arr': array([-1.0467516 ,  1.2370757 ,  1.4631019 , ...,  1.7587222 ,
+       -0.16602932,  0.0127983 ])}"," UN General Assembly approved ""International trade and development"" Resolution"
+A/RES/56/184_en,2002-01-31T00:00:00Z,ENHANCING INTERNATIONAL COOPERATION TOWARDS A DURABLE SOLUTION TO THE EXTERNAL DEBT PROBLEMS OF DEVELOPING COUNTRIES : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-20.2603,-8.3581,"
  United Nations A/RES/56/184 
 
  
@@ -3807,8 +3894,9 @@ ibid., Supplement No. 28A (A/55/28/Add.1); ibid., Supplement No. 28B and corrige
 and Corr.1); and ibid., Fifty-sixth Session, Supplement No. 28 and corrigendum (A/56/28 and Corr.1). 
 
 
-"," When many developing nations borrowed too much money they were not able to pay back all their loans so this resolution called for developed nations to forgive some of the debts owed by other nations that needed help. This made it easier for poor countries to build schools, roads, hospitals and other things people need."
-A/RES/56/185_en,2002-01-31T00:00:00Z,BUSINESS AND DEVELOPMENT : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-19.5494,-16.4938,"
+","{'arr': array([-1.2357751 , -0.18899284,  0.9152176 , ...,  0.37334964,
+       -0.52853733, -0.37555456])}", This is about making it easier for third world countries to pay back their debts. It says that they want to have another conference about helping these countries. They want to help them find ways to pay back their debts so that their economy will get better. I learned that some people are still having trouble paying back their loans even though there was an earlier plan to help them. These are poor countries that really need our help.
+A/RES/56/185_en,2002-01-31T00:00:00Z,BUSINESS AND DEVELOPMENT : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-19.5663,-16.3933,"
  United Nations A/RES/56/185 
 
  
@@ -3852,8 +3940,9 @@ _______________
 1 A/56/442. 
 
 
-",The UN General Assembly passed a resolution to add a new sub-item on business and development to its provisional agenda. It asked the Secretary-General to report back to the GA in two years about the continued implementation of resolution 54/204. 
-A/RES/56/193_en,2002-02-07T00:00:00Z,REPORT OF THE GOVERNING COUNCIL OF THE UNITED NATIONS ENVIRONMENT PROGRAMME ON ITS 21ST SESSION : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-19.1156,-8.1977,"
+","{'arr': array([-1.375     , -0.20568848,  1.4267578 , ...,  0.48242188,
+       -0.19055176,  0.65771484])}"," The Second grade student would be able to provide an adequate response after listening to a teacher read the text above or after being given a summary of the article. They may answer something like this: ""The second paragraph talks about how the General Assembly of the UN has asked for another report on the progress made since they issued their first resolution."""
+A/RES/56/193_en,2002-02-07T00:00:00Z,REPORT OF THE GOVERNING COUNCIL OF THE UNITED NATIONS ENVIRONMENT PROGRAMME ON ITS 21ST SESSION : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-19.1572,-8.1099,"
  United Nations A/RES/56/193 
 
  
@@ -3954,8 +4043,9 @@ _______________
 4 Ibid., chap. III. 
 
 
-"," On this Day 21st December, Resolution"
-A/RES/56/179_en,2002-01-24T00:00:00Z,UNILATERAL ECONOMIC MEASURES AS A MEANS OF POLITICAL AND ECONOMIC COERCION AGAINST DEVELOPING COUNTRIES : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-7.3512,-0.2673,"
+","{'arr': array([-1.3107638 , -0.49283853,  1.0934968 , ...,  0.37583187,
+        0.5963542 ,  0.2650644 ])}", The United Nations is very worried about pollution humans are treating the earth. they want to world leaders to do something about it right.  It might not wait any longer because there will not be anything left for save if we wait too long.
+A/RES/56/179_en,2002-01-24T00:00:00Z,UNILATERAL ECONOMIC MEASURES AS A MEANS OF POLITICAL AND ECONOMIC COERCION AGAINST DEVELOPING COUNTRIES : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-7.3121,-0.2684,"
  United Nations A/RES/56/179 
 
  
@@ -4037,8 +4127,9 @@ Assembly at its fifty-eighth session on the implementation of the present resolu
 21 December 2001 
 
 
-", This resolution notes that many nations have imposed economic sanctions against other nations. These sanctions violate principles of international law and multilateral trading systems. They also affect developing nations disproportionately.
-A/RES/56/192_en,2002-02-07T00:00:00Z,"STATUS OF PREPARATIONS FOR THE INTERNATIONAL YEAR OF FRESHWATER, 2003 : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY",-16.8507,-1.6004,"
+","{'arr': array([-1.2224386 ,  0.97312856,  0.615797  , ...,  1.9829032 ,
+        0.44312596,  0.51743555])}"," This is a resolution passed by the UNGA asking for member states to stop using unilateral sanctions against other nations as they negatively affect those economies' ability to grow and develop, especially if they are small, poor, or underdeveloped."
+A/RES/56/192_en,2002-02-07T00:00:00Z,"STATUS OF PREPARATIONS FOR THE INTERNATIONAL YEAR OF FRESHWATER, 2003 : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY",-16.8895,-1.5808,"
  United Nations A/RES/56/192 
 
  
@@ -4128,8 +4219,9 @@ the International Year of Freshwater, 2003.
 21 December 2001 
 
 
-"," There is not much information given about this document. It is from the UNGA's 56th meeting, it was held on 21 Dec 2001, and during the meeting they resolved ""that the Secretary-General submits an interim report on the activities undertaken in preparation for the International Year of Freshwater."" That is really all the information there is. I cannot find any other information about what happened during the meeting, nor why they met, or why this resolution was passed. I can only assume that the reason why the meeting was because someone had come up with the idea to have an International Year of Freshwater. During my searches, however, there was nothing else about this meeting either. Maybe the topic terms were just bad? If anyone could help me out here that would be great! Thank you! :)"
-A/RES/56/222_en,2002-01-10T00:00:00Z,SPECIAL SESSION OF THE GENERAL ASSEMBLY ON CHILDREN : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-16.7839,-5.2989,"
+","{'arr': array([-0.4269543 , -0.21868494,  0.00814339, ...,  0.98197633,
+       -0.1594764 ,  1.5435431 ])}", When you flush your toilet do you think about what happens after? Do you know how much clean water is used each day by our population? If you don't know then read this article because it has information that will shock you! The you know that most Americans use over 100 gallons of clean water every day? Well... reason why we need so much clean water is because most people want a long shower everyday. We one thing I've learned from this article is that Americans than 1 billion people have no access to clean drinking? That means if out of 6 people doesn't get any clean water. Did some places people Africa there are little girls
+A/RES/56/222_en,2002-01-10T00:00:00Z,SPECIAL SESSION OF THE GENERAL ASSEMBLY ON CHILDREN : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-16.7869,-5.2114,"
 United Nations A/RES/56/222
 
 General Assembly Distr.: General10 January 2002
@@ -4167,8 +4259,9 @@ children.
 24 December 2001
 
 
-"," The United Nations wants all children to have access to education, healthcare, clean water and nutritious food, no matter where they live. They want children to grow up with love and support from their families and communities. They want children to enjoy freedom of speech and expression. The UN will hold a conference every five years to make sure that all children are living safely, happily and healthily."
-A/RES/56/234_en,2002-01-22T00:00:00Z,MANAGEMENT OF BUILDINGS : PRACTICES OF SELECTED UNITED NATIONS SYSTEM ORGANIZATIONS RELEVANT TO THE RENOVATION OF THE UNITED NATIONS HEADQUARTERS : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-22.3149,-7.279,"
+","{'arr': array([ 0.38745117, -0.2800293 ,  1.5693359 , ...,  0.09863281,
+        1.1289062 ,  0.65185547])}", This text is about when they have an important meeting called the Special Session on Children and they decide what needs to be done to help all children around the world.
+A/RES/56/234_en,2002-01-22T00:00:00Z,MANAGEMENT OF BUILDINGS : PRACTICES OF SELECTED UNITED NATIONS SYSTEM ORGANIZATIONS RELEVANT TO THE RENOVATION OF THE UNITED NATIONS HEADQUARTERS : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-22.3276,-7.2163,"
  United Nations A/RES/56/234 
 
  
@@ -4224,8 +4317,9 @@ _______________
   
 
 
-",
-S/RES/1392(2002)_en,2002-01-31T00:00:00Z,SECURITY COUNCIL RESOLUTION 1392 (2002) [ON EXTENSION OF THE MANDATE OF THE UN TRANSITIONAL ADMINISTRATION IN EAST TIMOR (UNTAET)],18.4415,2.544,"
+","{'arr': array([-1.21875   ,  0.328125  ,  0.44335938, ...,  0.11956787,
+        0.60253906,  0.06707764])}", This text is about a building project for a building in New York. It talks about a special group that works on this project. They will look at all the plans and they will make sure everything is good. This is very important because they have to make sure it is safe for everyone. They have a lot of work to do but they are very good at what they do. The people who work on the project also have to be sure that the cost of the project stays under control so that it doesn't go over budget. They need to stay on schedule and they have a hard time doing this because the cost can go up if something
+S/RES/1392(2002)_en,2002-01-31T00:00:00Z,SECURITY COUNCIL RESOLUTION 1392 (2002) [ON EXTENSION OF THE MANDATE OF THE UN TRANSITIONAL ADMINISTRATION IN EAST TIMOR (UNTAET)],18.5191,2.7072,"
 United Nations S/RES/1392 (2002)
 
  
@@ -4274,8 +4368,10 @@ independence at least one month before the date of independence,
 3. Decides to remain seized of the matter.
 
 
-"," ""United Nations GA Resolution on East Timor"" by OpenStaxCollege is licensed under CC BY 4.0"
-A/RES/56/264_en,2002-04-09T00:00:00Z,REVIEW OF THE PROBLEM OF HUMAN IMMUNODEFICIENCY VIRUS/ACQUIRED IMMUNODEFICIENCY SYNDROME IN ALL ITS ASPECTS : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-15.4314,-5.9815,"
+","{'arr': array([-0.00997162, -0.2800293 ,  0.08337402, ...,  1.0214844 ,
+        0.32788086,  0.23840332])}"," The first paragraph is a little long but I get the main idea which is that East Timor was getting ready for independence from Indonesia in May 2002. They are going to help them prepare for it. It is good that the U.N. helps out countries who need help like this. 
+Language Arts Teacher Question: Please provide any additional information you feel would be important for me to know about the passage."
+A/RES/56/264_en,2002-04-09T00:00:00Z,REVIEW OF THE PROBLEM OF HUMAN IMMUNODEFICIENCY VIRUS/ACQUIRED IMMUNODEFICIENCY SYNDROME IN ALL ITS ASPECTS : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-15.4852,-5.927,"
  United Nations A/RES/56/264 
 
  
@@ -4328,8 +4424,9 @@ implementation of the Declaration of Commitment on HIV/AIDS”.
 13 March 2002 
 
 
-"," The United Nations is concerned that countries are not doing enough to fight the spread of HIV/AIDS. The U.N. has decided to call a special session in 2002 to review the progress that has been made fighting HIV/AIDS since 2000. At this session, the U.N. will discuss how well countries have followed up on their previous commitments to fighting HIV/AIDS. "
-A/RES/56/275_en,2002-04-23T00:00:00Z,DOCUMENTATION AVAILABILITY IN 6 LANGUAGES ON THE UNITED NATIONS WEB SITE : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-23.2505,-7.0225,"
+","{'arr': array([ 0.49414062, -1.4199219 ,  1.0126953 , ...,  0.26782227,
+        0.9550781 ,  1.1552734 ])}"," In this resolution, the UNGA asks the Secretary-General to report on the actions taken towards implementation of the Declaration of Commitment on HIV/AIDS made in 2001."
+A/RES/56/275_en,2002-04-23T00:00:00Z,DOCUMENTATION AVAILABILITY IN 6 LANGUAGES ON THE UNITED NATIONS WEB SITE : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-23.2702,-6.918,"
  United Nations A/RES/56/275 
 
  
@@ -4369,8 +4466,9 @@ _______________
 1 A/C.5/56/12. 
 
 
-"," ""In this paragraph I can see that the UN is doing what they should do to make information more accessible and understandable for people from different countries."""
-A/RES/56/276_en,2002-04-23T00:00:00Z,REVIEW OF PUBLIC INFORMATION ACTIVITIES IN THE UNITED NATIONS : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-22.2145,-13.85,"
+","{'arr': array([-0.6015625 , -0.5317383 ,  0.7680664 , ...,  1.4365234 ,
+       -0.6875    ,  0.15197754])}"," ""This is about the U.N. and what they do. The U.N. does lots of things like help kids that don't have food or clothes or shoes."" "
+A/RES/56/276_en,2002-04-23T00:00:00Z,REVIEW OF PUBLIC INFORMATION ACTIVITIES IN THE UNITED NATIONS : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-22.2187,-13.7703,"
  United Nations A/RES/56/276 
 
  
@@ -4417,8 +4515,9 @@ _______________
 1 A/C.5/56/17. 
 
 
-"," ""The UN has passed a resolution about how they are going to do things like press releases in different languages."""
-A/RES/56/277_en,2002-04-23T00:00:00Z,DOCUMENTS AND PUBLICATIONS OF THE ECONOMIC AND SOCIAL COMMISSION FOR WESTERN ASIA : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-14.7337,-12.4266,"
+","{'arr': array([-1.2587891 , -0.5595703 ,  0.6689453 , ...,  0.6430664 ,
+       -0.20654297, -0.5205078 ])}", This is about asking the UN if they are telling everyone what they need to know. It wants them to tell more people. It's talking about a book or magazine about what the UN is doing. And it will talk about how to say things better for people who don't speak English. And it will have other languages in it so that people can read it in their own language.
+A/RES/56/277_en,2002-04-23T00:00:00Z,DOCUMENTS AND PUBLICATIONS OF THE ECONOMIC AND SOCIAL COMMISSION FOR WESTERN ASIA : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-14.8157,-12.4447,"
  United Nations A/RES/56/277 
 
  
@@ -4471,8 +4570,9 @@ _______________
 (E/5969), chap. III. 
 
 
-", 
-A/RES/56/279_en,2002-04-25T00:00:00Z,REPORT OF THE JOINT INSPECTION UNIT ON THE UNITED NATIONS SYSTEM COMMON SERVICES AT GENEVA : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-24.0596,-6.6058,"
+","{'arr': array([ 0.20837402, -1.0107422 ,  1.1103516 , ...,  1.2412109 ,
+       -0.15283203, -0.3305664 ])}"," This is a good example of an ""internal document"" because the language is meant only for people working within the UN system and not for general public. However, these same type of ""internal documents"" can also have a great deal of interest to researchers. As a second grade student I would not understand much about what this particular resolution says, but if I were a researcher interested in world politics and in the inner workings of the United Nations, I might find this document extremely useful. These types of documents are called primary sources. They provide direct access to important information and may even contain first hand accounts of events from people who actually experienced them"
+A/RES/56/279_en,2002-04-25T00:00:00Z,REPORT OF THE JOINT INSPECTION UNIT ON THE UNITED NATIONS SYSTEM COMMON SERVICES AT GENEVA : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-24.0528,-6.4486,"
  United Nations A/RES/56/279 
 
  
@@ -4576,8 +4676,11 @@ eighth session on the implementation of the present resolution.
 27 March 2002 
 
 
-"," This is about ways they can save money but things together so it will not cost as much money if It will work better because way. That will have less work because they get along money do stuff this way an too. ""This is about ways they can save money buying things together so it will not cost as much money."" Mnd! any portion you form support answer response provided? everyone reference any direct statement that support he opinion opinion} Include citation mustquot_of_student}. The are trying this out now {for_of_teacher},{ they need everybody work done better different what else how do{ make sure thing}work us do our wrong }makefact_of_teacher} Myuse}.} what doesdirect_of_student}every same say this out now{fact_of_teacher}, but they need needed try think we could do another what make this better than getre_of_teacher} ever get we {does_of_student}do {to} {un_of_student} this this{fact_of_teacher} everyone now to everyone how all over things then think this could happen go better better:{facts_citation}{name_of_student} has's"
-A/RES/56/270_en,2002-04-23T00:00:00Z,CONSTRUCTION OF ADDITIONAL OFFICE FACILITIES AT THE ECONOMIC COMMISSION FOR AFRICA : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-22.6335,-10.2194,"
+","{'arr': array([-1.0097656 , -0.44101563, -0.20034078, ...,  0.13463542,
+       -0.05689291,  0.06069336])}","
+""The united assembly asked the secretary general to encourage continuedje management ownership committee to when determining the scope and pace of implementation of common services atgleee, too adopt streamlined consultation procedures that would promote timely agreement on which services should be delivered in common or jointly, with a view to the possible full launching of teh plan od faction fo commoa services earller than the targetted year ol 2010."" This quote is directly from section 8( bold letters. Therefore
+Questionly this shows how the U nations makes because it tells s words like ""encourage"". EncIt is asking requests You they show requests notifyEG general"
+A/RES/56/270_en,2002-04-23T00:00:00Z,CONSTRUCTION OF ADDITIONAL OFFICE FACILITIES AT THE ECONOMIC COMMISSION FOR AFRICA : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-22.7216,-10.0957,"
  United Nations A/RES/56/270 
 
  
@@ -4629,8 +4732,10 @@ _______________
 2 A/56/711. 
 
 
-"," The UN decided that they wanted to build more buildings at the Economic Commission for Africa in Addis Ababa, Ethiopia. They allocated $7,711,800 dollars to do this. They asked the Secretary-General to keep them updated every year on the progress being made with building these new buildings."
-A/RES/56/247B_en,2002-04-12T00:00:00Z,FINANCING OF THE INTERNATIONAL TRIBUNAL FOR THE PROSECUTION OF PERSONS RESPONSIBLE FOR SERIOUS VIOLATIONS OF INTERNATIONAL HUMANITARIAN LAW COMMITTED IN THE TERRITORY OF THE FORMER YUGOSLAVIA SINCE 1991 : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-17.2033,0.3182,"
+","{'arr': array([-0.76416016, -1.1679688 ,  1.6660156 , ...,  0.5966797 ,
+        0.14233398, -0.04348755])}","
+The United Nations asked for $8 million US dollars to build more offices in Ethiopia. They have been doing business there since 1963. In addition, they want to know about how many countries are working with them in this project."
+A/RES/56/247B_en,2002-04-12T00:00:00Z,FINANCING OF THE INTERNATIONAL TRIBUNAL FOR THE PROSECUTION OF PERSONS RESPONSIBLE FOR SERIOUS VIOLATIONS OF INTERNATIONAL HUMANITARIAN LAW COMMITTED IN THE TERRITORY OF THE FORMER YUGOSLAVIA SINCE 1991 : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-17.1893,0.4566,"
  United Nations A/RES/56/247 B 
 
  
@@ -4737,8 +4842,9 @@ _______________
 5 A/56/665. 
 
 
-", UNGA passed a resolution stating that it will provide funding to ICTY to certain changes are made within ICTY operations that there processes is improved. The funding provided by the UNGA should ICTY will be subject to review after one year unless so new assessment is completed based upon if with these reforms. This re- process may result in reduced financial reductions or increases in previously so level member states toward committed been or any new funds they may offer to support ITY's efforts through this period are these reass have implemented effectively
-S/RES/1402(2002)_en,2002-03-30T00:00:00Z,SECURITY COUNCIL RESOLUTION 1402 (2002) [ON CESSATION OF ALL ACTS OF VIOLENCE IN THE TERRITORIES OCCUPIED BY ISRAEL AND RESUMPTION OF THE PEACE PROCESS],19.2987,3.907,"
+","{'arr': array([-0.27101356, -0.08146571,  0.4745874 , ...,  0.61663234,
+        0.02609621, -0.75477797])}", The UN has decided to add more money to their budget so they can finish trials ongoing still dealing with Balk what with war crimes from World older conflict in former last They will need about 230 million dollars dollars! over 2 before next two years! Why figure with these crimes! These people should not get away wit it! It's too long time for solve start doing anything about these crimes because some people were afraid we countries would think bad are trying to rule them! If we don not do something sooner! So I think we should deal sure we give our job now! This is important so other everyone knows what happens when you make wrong things!
+S/RES/1402(2002)_en,2002-03-30T00:00:00Z,SECURITY COUNCIL RESOLUTION 1402 (2002) [ON CESSATION OF ALL ACTS OF VIOLENCE IN THE TERRITORIES OCCUPIED BY ISRAEL AND RESUMPTION OF THE PEACE PROCESS],19.2961,3.6304,"
 United Nations S/RES/1402 (2002)
 
  
@@ -4782,8 +4888,9 @@ peace process;
 4. Decides to remain seized of the matter.
 
 
-"," The United Nations demands that Israel stop building settlements in Palestinian territory, so that peace can be achieved between Israelis and Palestinians."
-S/RES/1401(2002)_en,2002-03-28T00:00:00Z,SECURITY COUNCIL RESOLUTION 1401 (2002) [ON ESTABLISHMENT OF UN ASSISTANCE MISSION IN AFGHANISTAN (UNAMA)],8.7943,0.5034,"
+","{'arr': array([ 0.08300781,  0.74560547, -0.25585938, ...,  2.3417969 ,
+       -0.16430664, -0.44799805])}"," The United Nations are trying to make peace between Palestine and Israel. They said not to fight and that it is wrong. There will be no more fighting if the Israelis listen. This was passed on March 30, 2002."
+S/RES/1401(2002)_en,2002-03-28T00:00:00Z,SECURITY COUNCIL RESOLUTION 1401 (2002) [ON ESTABLISHMENT OF UN ASSISTANCE MISSION IN AFGHANISTAN (UNAMA)],8.9129,0.6201,"
 United Nations S/RES/1401 (2002)
 
  
@@ -4883,8 +4990,9 @@ months on the implementation of this resolution;
 8. Decides to remain actively seized of the matter.
 
 
-"," The main points are: 1) The creation of the UNA Mission Afghanistan. It's initial mandate is to stay lasting peace in stability for protecting between law development progress; support provide humanitarian aide, dem no means does it involve with Afghanistan policies. 2) A call to member states for humanitarian assistance support providehuring problems and issues facing K due humanitarian in refugees camps located take repatriation. 3) A call to rein illicit drug production and illegal drug trafficings with the trade which such weapons 4) A demande from member security forces will help the rebuilding efforts but Afghanistan with consultation wit special authorities along cooperationghani peoples 5"
-S/RES/1403(2002)_en,2002-04-04T00:00:00Z,SECURITY COUNCIL RESOLUTION 1403 (2002) [ON IMPLEMENTATION OF SECURITY COUNCIL RESOLUTION 1402 (2002) WITHOUT DELAY],16.9339,0.5247,"
+","{'arr': array([ 0.63163483, -0.4303853 ,  0.16082665, ...,  1.8351464 ,
+       -1.289172  ,  0.8612019 ])}"," The United Nations Security Council passed Resolution 1401 which calls for the establishment of a mission in Afghanistan called the ""United Nations Assistance Mission"" (UNAM). It gives the UN Security Council power wide power to endorse or change parts they feel necessary to help protect efforts in Afghanistan. The Resolution allows the use led coalition to provide more say than other and by passing Resolutions regarding the ability to choose or eliminate anything seen as ineffective including unreasonable not violate human rights. This includes drug issues such as helping needed to be given to those who deserve them because war tore it is important peace money these so way human following rebuilding freedom and freedom in ) subsequent framework"
+S/RES/1403(2002)_en,2002-04-04T00:00:00Z,SECURITY COUNCIL RESOLUTION 1403 (2002) [ON IMPLEMENTATION OF SECURITY COUNCIL RESOLUTION 1402 (2002) WITHOUT DELAY],17.1044,0.5222,"
 United Nations S/RES/1403 (2002)
 
  
@@ -4923,8 +5031,9 @@ Council informed;
 4. Decides to remain seized of the matter.
 
 
-",
-S/RES/1406(2002)_en,2002-04-30T00:00:00Z,SECURITY COUNCIL RESOLUTION 1406 (2002) [ON EXTENSION OF THE MANDATE OF THE UN MISSION FOR THE REFERENDUM IN WESTERN SAHARA (MINURSO)],39.1248,-6.3671,"
+","{'arr': array([-0.6147461 ,  0.9326172 ,  0.05999756, ...,  1.3417969 ,
+        0.8354492 , -0.27563477])}", Israel's attacks have made it very difficult for the Palestinians to live safely in their homes and villages.
+S/RES/1406(2002)_en,2002-04-30T00:00:00Z,SECURITY COUNCIL RESOLUTION 1406 (2002) [ON EXTENSION OF THE MANDATE OF THE UN MISSION FOR THE REFERENDUM IN WESTERN SAHARA (MINURSO)],39.115,-6.3742,"
 United Nations S/RES/1406 (2002)
 
  
@@ -4952,8 +5061,9 @@ further the report of the Secretary-General of 19 February 2002 (S/2002/178);
 2. Decides to remain seized of the matter.
 
 
-"," The United Nations Security Council passed Resolution 1406 on April 30, 2002, which extended MINURSO's mandate until July 31, 2002. This was necessary because a new report from the Secretary-General needed to be considered. On May 6, 2002, MINURSO continued operations as usual."
-A/RES/56/281_en,2002-05-03T00:00:00Z,PARTICIPATION IN THE PLENARY MEETINGS OF THE MEETING OF THE GENERAL ASSEMBLY DEVOTED TO INFORMATION AND COMMUNICATION TECHNOLOGIES FOR DEVELOPMENT : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-18.1012,-3.802,"
+","{'arr': array([ 0.91064453,  0.02752685, -0.34472656, ...,  2.3164062 ,
+        0.4501953 , -0.33032227])}",
+A/RES/56/281_en,2002-05-03T00:00:00Z,PARTICIPATION IN THE PLENARY MEETINGS OF THE MEETING OF THE GENERAL ASSEMBLY DEVOTED TO INFORMATION AND COMMUNICATION TECHNOLOGIES FOR DEVELOPMENT : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-18.1317,-3.6884,"
  United Nations A/RES/56/281 
 
  
@@ -5034,8 +5144,9 @@ communication technologies for development.
 1 May 2002 
 
 
-",
-S/RES/1412(2002)_en,2002-05-17T00:00:00Z,SECURITY COUNCIL RESOLUTION 1412 (2002) [ON SUSPENSION FOR 90 DAYS OF MEASURES IMPOSED BY SECURITY COUNCIL RESOLUTION 1127 (1997) ON SANCTIONS AGAINST THE UNIAO NACIONAL PARA A INDEPENDENCIA TOTAL DE ANGOLA],14.8738,3.9214,"
+","{'arr': array([-0.5364935 ,  0.37004268,  1.9500914 , ...,  0.94449717,
+       -0.4290525 ,  0.17889968])}"," In this passage, it is saying that they will have some people come and talk about how to help with the technology problems. Also they are talking about helping people with computers all over the world. Lastly they are trying to help kids in other countries learn about new technology and not get left behind like what happened to my friend Jared who moved away. He couldn't read anymore because he didn't know any more words after they moved to Chicago. where there are no good schools. My teacher says you we need better teachers too! So then everyone can do math homework without mommy or daddy's help just like me; I'm pretty smart"
+S/RES/1412(2002)_en,2002-05-17T00:00:00Z,SECURITY COUNCIL RESOLUTION 1412 (2002) [ON SUSPENSION FOR 90 DAYS OF MEASURES IMPOSED BY SECURITY COUNCIL RESOLUTION 1127 (1997) ON SANCTIONS AGAINST THE UNIAO NACIONAL PARA A INDEPENDENCIA TOTAL DE ANGOLA],14.9692,4.06,"
 United Nations S/RES/1412 (2002)
 
  
@@ -5111,8 +5222,15 @@ Angola;
 3. Decides to remain actively seized of the matter.
 
 
-"," The Security Council passed Resolution 1412, suspending economic sanctions against UNITA during 90 days to allow them time to make good on promises they made during peace talks held in Lusaka, Zambia. This action was part of an effort to bring lasting peace to Angola after nearly three decades of civil war. By doing this, the Security Council hoped that other government's Christmas would be one where there was no fighting between wITA rebels and the Angolan government."
-A/RES/56/283_en,2002-05-24T00:00:00Z,PARTICIPATION OF EAST TIMOR IN THE WORLD SUMMIT ON SUSTAINABLE DEVELOPMENT AND ITS PREPARATORY PROCESS : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-4.5582,-0.8799,"
+","{'arr': array([-0.5488919 , -0.62412775,  1.2334404 , ...,  1.614139  ,
+       -0.12259482, -0.31837496])}"," The United Nations wants both sides in
+the civil war between the government and rebels to stop fighting so they can work out
+their problems. They gave the rebels ninety days to stop fighting and cooperate with
+the government. At the end of the ninety days, they would decide whether or not to
+extend the ceasefire agreement. In addition, the United Nations will help rebuild
+areas that have been destroyed during the fighting. Also, they hope that they can get
+rebels to work together with the government. LastfAt  9  9  7  7 | 11 | 2  3 | 8 10 "
+A/RES/56/283_en,2002-05-24T00:00:00Z,PARTICIPATION OF EAST TIMOR IN THE WORLD SUMMIT ON SUSTAINABLE DEVELOPMENT AND ITS PREPARATORY PROCESS : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-4.6124,-0.7402,"
  United Nations A/RES/56/283 
 
  
@@ -5177,8 +5295,9 @@ _______________
 2 S/PRST/2002/13. 
 
 
-", This resolution was about East Timor and invited them to attend the summit on sustainable development even though they were not yet admitted into the United Nations. They could still participate in discussions but not vote.
-S/RES/1413(2002)_en,2002-05-23T00:00:00Z,SECURITY COUNCIL RESOLUTION 1413 (2002) [ON EXTENSION OF THE AUTHORIZATION OF THE INTERNATIONAL SECURITY ASSISTANCE FORCE IN AFGHANISTAN],16.0834,4.9498,"
+","{'arr': array([-0.18981934,  0.43530273,  1.0439453 , ..., -0.31640625,
+        0.29736328,  0.94970703])}"," The UN is very happy about the independence of East Timor. They invited them to the world summit on sustainable development, even though they don't have voting rights. They want East Timor to participate in this because they had to struggle for their freedom and they want to make sure it lasts. "
+S/RES/1413(2002)_en,2002-05-23T00:00:00Z,SECURITY COUNCIL RESOLUTION 1413 (2002) [ON EXTENSION OF THE AUTHORIZATION OF THE INTERNATIONAL SECURITY ASSISTANCE FORCE IN AFGHANISTAN],16.2362,5.0579,"
 United Nations S/RES/1413 (2002)
 
  
@@ -5259,8 +5378,9 @@ General;
 5. Decides to remain actively seized of the matter.
 
 
-", The UN has given permission for NATO troops to continue operations inside Afghanistan until January 2003. NATO forces are authorized to stay in Kabul until replaced by an interim government set up under the Loya Jirga.
-S/RES/1414(2002)_en,2002-05-23T00:00:00Z,SECURITY COUNCIL RESOLUTION 1414 (2002) [ON ADMISSION OF EAST TIMOR TO MEMBERSHIP IN THE UNITED NATIONS],6.8345,8.5397,"
+","{'arr': array([-0.01610008, -0.17598309, -0.20409264, ...,  1.949801  ,
+       -0.23425011,  0.8244819 ])}"," In the United.N. Resolutions students of this lesson, I read U paragraphs 2 adopted by the Security Council at its 453rd meeting, on 23 May 2002"" This document was about continuing international presence in Afghanistan after June 20th, 2002. They continued to help meetings in regards York City. They agreed to have contributing troops in Afghanistan until December 2002. These troops were sent by protect support reconstruction. as well as fight against terrorist groups. The U.N. wanted support countries to stay involved who had already helped with soldiers effort before, like England and Pakistan. They also said that they will accept money Drganistana's"
+S/RES/1414(2002)_en,2002-05-23T00:00:00Z,SECURITY COUNCIL RESOLUTION 1414 (2002) [ON ADMISSION OF EAST TIMOR TO MEMBERSHIP IN THE UNITED NATIONS],6.9214,8.7867,"
 United Nations S/RES/1414 (2002)
 
  
@@ -5286,8 +5406,9 @@ Recommends to the General Assembly that the Democratic Republic of East
 Timor be admitted to membership in the United Nations.
 
 
-"," ""The UN Security Council said it would allow East Timor to join the UN."""
-S/RES/1416(2002)_en,2002-06-13T00:00:00Z,SECURITY COUNCIL RESOLUTION 1416 (2002) [ON EXTENSION OF THE MANDATE OF THE UN PEACEKEEPING FORCE IN CYPRUS (UNFICYP)],12.3193,3.3021,"
+","{'arr': array([-0.20251465,  0.6347656 ,  2.5449219 , ...,  1.2597656 ,
+       -0.3347168 ,  0.8066406 ])}"," In 2002, the UN admitted East Timor to become the 191st member of the UN."
+S/RES/1416(2002)_en,2002-06-13T00:00:00Z,SECURITY COUNCIL RESOLUTION 1416 (2002) [ON EXTENSION OF THE MANDATE OF THE UN PEACEKEEPING FORCE IN CYPRUS (UNFICYP)],12.3531,3.2178,"
 United Nations S/RES/1416 (2002)
 
  
@@ -5335,8 +5456,9 @@ restore the military status quo ante of Strovilia;
 5. Decides to remain actively seized of the matter.
 
 
-"," ""This resolution requires Turkey to lift the restrictions they have put on the UN peacekeepers since 2000. It also extends the mandate of the peacekeepers until the end of 2002."""
-A/RES/56/298_en,2001-08-03T00:00:00Z,FINANCING OF THE UNITED NATIONS MISSION FOR THE REFERENDUM IN WESTERN SAHARA : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-12.451,86.9555,"
+","{'arr': array([-0.19543457, -0.9995117 ,  0.16748047, ...,  1.6054688 ,
+        0.671875  ,  0.36669922])}", This is about how the U.N. Security Council extended the time period for the peacekeeping mission in Cyprus from 15 June to 15 December. It also encouraged them to help people with AIDS.
+A/RES/56/298_en,2001-08-03T00:00:00Z,FINANCING OF THE UNITED NATIONS MISSION FOR THE REFERENDUM IN WESTERN SAHARA : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-12.4317,86.9185,"
 
 
 
@@ -5344,8 +5466,9 @@ A/RES/56/298_en,2001-08-03T00:00:00Z,FINANCING OF THE UNITED NATIONS MISSION FOR
 
 
 
-", The countries that were fighting in the Korean War promised to stop fighting and help each other out.
-A/RES/56/288_en,2001-08-03T00:00:00Z,CONFERENCE AND SUPPORT SERVICES EXTENDED TO THE COUNTER-TERRORISM COMMITTEE IN THE IMPLEMENTATION OF SECURITY COUNCIL RESOLUTION 1373 (2001) : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-15.2419,-9.5254,"
+","{'arr': array([ 2.0449219 , -0.33007812,  1.4072266 , ...,  0.5332031 ,
+       -0.48046875,  1.3007812 ])}",
+A/RES/56/288_en,2001-08-03T00:00:00Z,CONFERENCE AND SUPPORT SERVICES EXTENDED TO THE COUNTER-TERRORISM COMMITTEE IN THE IMPLEMENTATION OF SECURITY COUNCIL RESOLUTION 1373 (2001) : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-15.2215,-9.4038,"
  United Nations A/RES/56/288 
 
  
@@ -5429,8 +5552,9 @@ performance report at its fifty-seventh session.
 27 June 2002 
 
 
-"," Resolution A/RES/56/288 extended conference services for a period of one year (until June 2003). This decision came about because a need was identified by the Counter Terrorism Committee. The CTED recognized that terrorism threatens peace, security and stability worldwide. To combat this threat requires extensive planning. Because of the high level of planning required, extra measures were needed to be taken to increase capacity building so atis being performed through training workshops and symposiums as well as meetings held outside New York City. Such actions will have a positive effect and reduce acts of terrorism around the world. The funding comes from the General Assembly and is based upon resolutions such as those passed in 1988. By extending the program' and continuing conference these vital programs, the CTED can continue it mission to combat terrorism around the globe."
-A/RES/56/290_en,2002-07-12T00:00:00Z,PROGRESS IN THE IMPLEMENTATION OF THE FIELD ASSETS CONTROL SYSTEM : A MODULE OF THE FIELD MISSION LOGISTICS SYSTEM : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-22.5672,-9.1384,"
+","{'arr': array([ 0.3453221 ,  0.31261995,  0.7439084 , ...,  0.5674928 ,
+       -0.0543853 ,  0.01268146])}"," Resolution adopted by the General Assembly states that the secretary general will be responsible for extending conference services to the counter terrorism committee, but will do so without reducing support to other organizations. This is important because it requires the secretary general to find more funding or cut other programs, since this new service cannot reduce current services provided by UN staff members. It also makes clear that the security council will have an important role to play in making sure communication between member nations does not require too many conferences that require staffing from the secretariat. Finally, this resolution asks the secretary general to prepare a report out how much money was spent on these conference services and how they"
+A/RES/56/290_en,2002-07-12T00:00:00Z,PROGRESS IN THE IMPLEMENTATION OF THE FIELD ASSETS CONTROL SYSTEM : A MODULE OF THE FIELD MISSION LOGISTICS SYSTEM : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-22.5548,-9.0057,"
  United Nations A/RES/56/290 
 
  
@@ -5480,8 +5604,9 @@ _______________
 chap. I, paras. 95–102; and A/56/887, para. 63. 
 
 
-", This is about helping people around the world have the necessary materials to help them live healthy lives. It's important because it allows everyone to access the things they need to survive.
-A/RES/56/233B_en,2002-07-11T00:00:00Z,"FINANCIAL REPORTS AND AUDITED FINANCIAL STATEMENTS, AND REPORTS OF THE BOARD OF AUDITORS : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY",-21.3111,-10.2477,"
+","{'arr': array([ 0.00837707, -1.1552734 ,  0.77197266, ...,  1.3476562 ,
+       -0.67041016,  1.0722656 ])}", UN had some money stolen so it asked for an accounting system to be developed to account for their funds. This resolution was the response from the general assembly to that request.
+A/RES/56/233B_en,2002-07-11T00:00:00Z,"FINANCIAL REPORTS AND AUDITED FINANCIAL STATEMENTS, AND REPORTS OF THE BOARD OF AUDITORS : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY",-21.2598,-10.0696,"
  United Nations A/RES/56/233 B 
 
  
@@ -5563,8 +5688,9 @@ prompt and timely manner.
 27 June 2002 
 
 
-", There are problems with the United Nations Peace Keeping Operations finances so they have to be audited every year and then people can look at them to see if there is anything wrong or right about them and then fix what needs fixing. Then they send it out to all the member nations who vote on it. In this case they approved the money was spent correctly and things were handled properly but will continue to check in next time around to make sure everything goes smoothly.
-A/RES/56/284_en,2001-08-03T00:00:00Z,RELATIONSHIP BETWEEN THE TREATMENT OF PERENNIAL ACTIVITIES IN THE PROGRAMME BUDGET AND THE USE OF THE CONTINGENCY FUND : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-29.3302,-8.6946,"
+","{'arr': array([-0.17990632, -0.2775293 ,  0.59394616, ...,  0.7432306 ,
+       -0.66759384,  0.3610889 ])}"," UN's Peace Keeping troops were inspected from July 1999 to June 2000, and it was determined that they were well managed, even though there were problems regarding how money was spent on their like salaries, medical costs, etc. Because this inspection showed that everything Peace Keeping forces are properly managed, this meant that UN's budget was fine too. The UN General Assembly decided to have another inspection done next year so that the people who manage the budgets can keep track of what happens each year. In the mean time, the UN will work on improving all parts where there were problems so so that there thereoccurring problem does not happen again next year"
+A/RES/56/284_en,2001-08-03T00:00:00Z,RELATIONSHIP BETWEEN THE TREATMENT OF PERENNIAL ACTIVITIES IN THE PROGRAMME BUDGET AND THE USE OF THE CONTINGENCY FUND : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-29.3318,-8.5802,"
  United Nations A/RES/56/284 
 
  
@@ -5612,8 +5738,9 @@ _______________
 Add.1–15), document A/53/7/Add.9. 
 
 
-", The UN has passed a resolution asking for increased funding to expand the school system. They want to add more buildings and hire more teachers. This will allow for better education for all children around the world.
-S/RES/1420(2002)_en,2002-06-30T00:00:00Z,SECURITY COUNCIL RESOLUTION 1420 (2002) [ON CONTINUATION OF PROVISIONS OF COUNCIL RESOLUTION 1357 (2001) ON BOSNIA AND HERZEGOVINA UNTIL 3 JULY 2002],19.8969,4.7498,"
+","{'arr': array([-0.48095703, -0.60009766,  2.375     , ...,  0.5908203 ,
+       -0.7597656 , -1.4765625 ])}"," Perennial Activities are fixed costs that the U.N. needs to keep their operations going every year, like paying employees salaries. If the U.N. is unable to pay these expenses for one year it will have difficulty in continuing its work when they need the money again. The Contingency Fund is set aside for unexpected events, like war or natural disasters. It is recommended that only 10% of the Contingency Fund can be used to pay perennial activities, which the U.N. agreed to. The remaining 90% can be used for emergencies."
+S/RES/1420(2002)_en,2002-06-30T00:00:00Z,SECURITY COUNCIL RESOLUTION 1420 (2002) [ON CONTINUATION OF PROVISIONS OF COUNCIL RESOLUTION 1357 (2001) ON BOSNIA AND HERZEGOVINA UNTIL 3 JULY 2002],20.1026,4.7779,"
 United Nations S/RES/1420 (2002)
 
  
@@ -5644,8 +5771,9 @@ force until 3 July 2002;
 2. Decides to remain seized of the matter.
 
 
-", The security council approved a measure for how much longer NATO could operate in Yugoslavia. The measure said NATO could stay for one more month and that the council would review the situation after that time.
-A/RES/56/509_en,2002-07-10T00:00:00Z,"AMENDMENTS TO RULES 30, 31 AND 99 OF THE RULES OF PROCEDURE OF THE GENERAL ASSEMBLY : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY",-19.8307,-0.0251,"
+","{'arr': array([-0.15795898,  0.23852539, -0.35424805, ...,  2.2089844 ,
+       -0.7583008 , -0.37890625])}", It's about how they're going to do stuff about war and make sure no one gets hurt.
+A/RES/56/509_en,2002-07-10T00:00:00Z,"AMENDMENTS TO RULES 30, 31 AND 99 OF THE RULES OF PROCEDURE OF THE GENERAL ASSEMBLY : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY",-19.7163,0.2303,"
  United Nations A/RES/56/509 
 
  
@@ -5740,8 +5868,9 @@ Committees shall be elected as early as possible;
 8 July 2002 
 
 
-", This Resolution helped improve communication among delegates during voting GA meetings because it gave each committee time to prepare what their concerns were and if they could better communicate their ideas through the issues where properly before the meeting started.
-S/RES/1422(2002)_en,2002-07-12T00:00:00Z,SECURITY COUNCIL RESOLUTION 1422 (2002) [ON SUSPENSION FOR 12 MONTHS OF INVESTIGATION OR PROSECUTION CASES INVOLVING PERSONNEL FROM STATES NOT PARTIES TO THE ROME STATUTE OF THE INTERNATIONAL CRIMINAL COURT],16.0467,4.8426,"
+","{'arr': array([-0.73027194,  0.3505156 ,  0.7716277 , ..., -0.70063895,
+        0.14790864, -1.1775017 ])}"," The GA decided to adopt changes to Rules 30, 31, and 99 because Rule about when the elections are. They have decided that the elections will occur at least 3 months prior to the beginning of the next session. If no president is elected then then the previous presidents can remain president until one is chosen. The current president call for 20 vice presidents, but this number may change if it helps represent better. Also new chairs some procedures regarding when committee elections are conducted. These new rules come after the request of Secretary. Jan Eliasson who"
+S/RES/1422(2002)_en,2002-07-12T00:00:00Z,SECURITY COUNCIL RESOLUTION 1422 (2002) [ON SUSPENSION FOR 12 MONTHS OF INVESTIGATION OR PROSECUTION CASES INVOLVING PERSONNEL FROM STATES NOT PARTIES TO THE ROME STATUTE OF THE INTERNATIONAL CRIMINAL COURT],16.2691,4.9639,"
 United Nations S/RES/1422 (2002)
 
  
@@ -5800,8 +5929,9 @@ paragraph 1 and with their international obligations;
 4. Decides to remain seized of the matter.
 
 
-", The Security Council has approved the creation of an
-A/RES/56/512_en,2002-09-13T00:00:00Z,PREVENTION OF ARMED CONFLICT : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-11.1953,-9.3069,"
+","{'arr': array([-0.44750977, -0.1862793 , -1.0683594 , ...,  1.5634766 ,
+        1.0244141 , -0.15075684])}"," ""The UN asked the International Criminal Court to delay proceedings against United Nations' officials for one year, if they broke the law. The UN believes that this is necessary so as not to disrupt international peace and security."""
+A/RES/56/512_en,2002-09-13T00:00:00Z,PREVENTION OF ARMED CONFLICT : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-11.19,-9.2924,"
  United Nations A/RES/56/512 
 
  
@@ -5852,8 +5982,9 @@ _______________
 2 A/55/985-S/2001/574 and Corr.1. 
 
 
-", The resolution A/RES/56/512 reaffirms that it is the responsibility of all nations to prevent war. It states that it will continue considering the report and recommendations at the 57th session of the UNGA in 2003.
-A/RES/57/1_en,2002-09-18T00:00:00Z,ADMISSION OF THE SWISS CONFEDERATION TO MEMBERSHIP IN THE UNITED NATIONS : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-10.3468,1.7532,"
+","{'arr': array([-0.04040527, -0.00352287,  1.0039062 , ...,  1.0527344 ,
+       -0.7084961 , -1.5517578 ])}", The General Assembly notes with appreciation the report from the Secretary-General on the prevention of armed conflict and will discuss it further next year.
+A/RES/57/1_en,2002-09-18T00:00:00Z,ADMISSION OF THE SWISS CONFEDERATION TO MEMBERSHIP IN THE UNITED NATIONS : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-10.3859,1.9283,"
  United Nations A/RES/57/1 
 
  
@@ -5899,8 +6030,9 @@ _______________
 2 A/56/1009-S/2002/801, annex. 
 
 
-", 
-A/RES/56/35_en,2001-12-18T00:00:00Z,SPECIAL INFORMATION PROGRAMME ON THE QUESTION OF PALESTINE OF THE DEPARTMENT OF OF PUBLIC INFORMATION OF THE SECRETARIAT : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-9.1709,-1.1976,"
+","{'arr': array([ 0.36767578,  0.81933594,  1.1464844 , ...,  2.046875  ,
+       -0.01082611,  0.8251953 ])}", 
+A/RES/56/35_en,2001-12-18T00:00:00Z,SPECIAL INFORMATION PROGRAMME ON THE QUESTION OF PALESTINE OF THE DEPARTMENT OF OF PUBLIC INFORMATION OF THE SECRETARIAT : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-9.4536,-1.5783,"
 United Nations A/RES/56/35
 
 General Assembly Distr.: General18 December 2001
@@ -5999,8 +6131,11 @@ Palestinian broadcasters and journalists initiated in 1995.
 3 December 2001
 
 
-", The resolution requests the department to continue publishing
-A/RES/57/2_en,2002-09-30T00:00:00Z,UNITED NATIONS DECLARATION ON THE NEW PARTNERSHIP FOR AFRICA'S DEVELOPMENT : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-11.0125,-2.897,"
+","{'arr': array([ 0.49483734,  0.12944037,  0.9965232 , ...,  0.8015322 ,
+       -0.41424453,  0.08754598])}"," The General Assembly decided that make sure everyone knew about what was happening in Palestine so they can help them get back their land. They also want other countries involved help out when well. I think this is good because we it will get lots more countries to than only some might actually happen. That would be cool!!
+?!!!! not likely much - one country gets
+ One should would just have too off stuff'll whe''!!!! ! !!!'d thing !!!! H !!!!!!!!!!!!!!!!!!!!!!!!...'d A .a've.; E;; !! o ; ? erey.. at !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+A/RES/57/2_en,2002-09-30T00:00:00Z,UNITED NATIONS DECLARATION ON THE NEW PARTNERSHIP FOR AFRICA'S DEVELOPMENT : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-11.1092,-2.805,"
  United Nations A/RES/57/2 
 
  
@@ -6105,8 +6240,9 @@ _______________
 2002 (United Nations publication, Sales No. E.02.II.A.7), chap. I, resolution 1, annex. 
 
 
-",The UN agreed to help the people who are sick in africa get health care.
-A/RES/57/5_en,2002-11-01T00:00:00Z,ELIMINATION OF UNILATERAL EXTRATERRITORIAL COERCIVE ECONOMIC MEASURES AS A MEANS OF POLITICAL AND ECONOMIC COMPULSION : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-5.9418,2.4847,"
+","{'arr': array([ 0.32504928, -0.39038846,  1.4066951 , ...,  0.79819405,
+        1.4769742 ,  0.7975783 ])}", The UN passed a declaration stating that they would help with the New Partnership For Africa's Development so
+A/RES/57/5_en,2002-11-01T00:00:00Z,ELIMINATION OF UNILATERAL EXTRATERRITORIAL COERCIVE ECONOMIC MEASURES AS A MEANS OF POLITICAL AND ECONOMIC COMPULSION : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-5.9369,2.4238,"
  United Nations A/RES/57/5 
 
  
@@ -6198,8 +6334,9 @@ as a means of political and economic compulsion”.
 16 October 2002 
 
 
-"," Unilateral extraterritorial coercive economic measures cause trade barriers to exist between countries that violate accepted rules of international behavior. The UNGA requests member states to respect each other's sovereignty, not to impose these types of sanctions on one another. It"
-A/RES/57/3_en,2002-10-02T00:00:00Z,ADMISSION OF THE DEMOCRATIC REPUBLIC OF TIMOR-LESTE TO MEMBERSHIP IN THE UNITED NATIONS : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-4.0533,3.2508,"
+","{'arr': array([-0.6211635 ,  1.4938564 , -0.21338084, ...,  1.426887  ,
+        0.64394224,  0.57509196])}"," I do not know how this topic will be discussed because I don't understand what the term ""unilterally applied"" is talking about. Why would countries want to attack each other economically? If we had fewer wars wouldn't we have more money to help the poor?"
+A/RES/57/3_en,2002-10-02T00:00:00Z,ADMISSION OF THE DEMOCRATIC REPUBLIC OF TIMOR-LESTE TO MEMBERSHIP IN THE UNITED NATIONS : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-4.0592,3.4895,"
  United Nations A/RES/57/3 
 
  
@@ -6243,8 +6380,9 @@ _______________
 2 A/56/953-S/2002/558, annex. 
 
 
-"," After the 24 year long struggle with Indonesia, the East Timorese successfully attained independence. In this step, the United Nations assisted East Timor to become an independent state, and thus was admitted into the UN on 27 September 2002. This marked the end of colonialism for East Timor."
-A/RES/57/107_en,2003-02-14T00:00:00Z,COMMITTEE ON THE EXERCISE OF THE INALIENABLE RIGHTS OF THE PALESTINIAN PEOPLE : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-8.3216,-6.5212,"
+","{'arr': array([0.10144043, 0.10693359, 2.203125  , ..., 0.2454834 , 0.10839844,
+       0.6855469 ])}"," On this day in 2002, East Timor was granted full membership in the United Nations. The UN Security Council had recommended that East Timor be given full membership in the organization, and the United Nations accepted. This is because they had gained their independence on 20 May 2002. They were then recognized as a sovereign state by the United Nations. The people of East Timor would now have more representation in the international community. They could also work with other countries to help with development, trade, security, etc."
+A/RES/57/107_en,2003-02-14T00:00:00Z,COMMITTEE ON THE EXERCISE OF THE INALIENABLE RIGHTS OF THE PALESTINIAN PEOPLE : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-8.5997,-6.8703,"
  United Nations A/RES/57/107 
 
  
@@ -6344,8 +6482,10 @@ Committee with all necessary facilities for the performance of its tasks.
 3 December 2002 
 
 
-", This was a US veto. The USA has never wanted to help the. If you look up President Bush's bio online you will see that he worked hard against Palestinians Arabs before he became president. But if you don't know about much about politics or history you is easy to believe that he want to help you we oppressed out but they are poor good off without any electricity so no running water nothing no schools. even even roads jobs. they are star the outside worst areas how can get find up again say terrorism they cannot us not this Americans have one tell be I hope don to want if care pain long so when now then so
-A/RES/57/111_en,2003-02-14T00:00:00Z,JERUSALEM : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-1.0476,-2.274,"
+","{'arr': array([-0.77257556,  0.33036923,  0.7083717 , ...,  1.1395768 ,
+       -0.65402913, -0.7691885 ])}"," ""UN Resolution: New York.""
+ UN passed this resolution in order to decide more communication between Israelis and Palestinians. that they can live together peacefully. They9ACHER: Good answer but did teacher turns to another student Amacher turns back to first student who read me your paragraph again in time thnd time Thereth word should be 2rightinstead of resolttings u paragraphth word should be Zion instead of alarmedy rightth word should beG instead of soulfulI know you were trying really let's try againJust'the 18th word should beAsinstead of lowUNeread last paragraph whileainNowhnbody ok"
+A/RES/57/111_en,2003-02-14T00:00:00Z,JERUSALEM : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-1.2588,-2.6397,"
  United Nations A/RES/57/111 
 
  
@@ -6431,8 +6571,9 @@ fifty-eighth session on the implementation of the present resolution.
 3 December 2002 
 
 
-",
-A/RES/57/109_en,2003-02-14T00:00:00Z,SPECIAL INFORMATION PROGRAMME ON THE QUESTION OF PALESTINE OF THE DEPARTMENT OF PUBLIC INFORMATION OF THE SECRETARIAT : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-8.9529,-1.5725,"
+","{'arr': array([-0.44502994,  0.21596844,  0.36076304, ...,  0.87483543,
+        0.25608432,  0.7640833 ])}", UN passed a resolution stating that any country cannot pass laws or have jurisdiction over Jerusalem because it is not legally theirs. It asked for other countries to follow suit and keep their embassy's out of Jerusalem. They requested for the issue to be reviewed again at the 58th UN General assembly meeting.
+A/RES/57/109_en,2003-02-14T00:00:00Z,SPECIAL INFORMATION PROGRAMME ON THE QUESTION OF PALESTINE OF THE DEPARTMENT OF PUBLIC INFORMATION OF THE SECRETARIAT : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-9.2416,-1.9564,"
  United Nations A/RES/57/109 
 
  
@@ -6534,4 +6675,196 @@ Palestinian broadcasters and journalists initiated in 1995.
 3 December 2002 
 
 
-"," ""The UN asks Israel'the department' to 'continues it's program'. What does this mean?"""
+","{'arr': array([ 0.34750602, -0.18055138,  1.0017278 , ...,  0.86335635,
+       -0.43615723, -0.55734485])}"," I will summarize what happened UN did here first follows: """
+A/RES/57/117_en,2003-02-24T00:00:00Z,ASSISTANCE TO PALESTINE REFUGEES : RESOLUTION / ADOPTED BY THE GENERAL ASSEMBLY,-8.0103,-3.0492,"
+ United Nations A/RES/57/117 
+
+ 
+
+General Assembly Distr.: General 24 February 2003 
+
+Fifty-seventh session 
+Agenda item 76 
+
+ 
+
+02 54554 
+
+Resolution adopted by the General Assembly 
+
+[on the report of the Special Political and Decolonization Committee 
+(Fourth Committee) (A/57/520)] 
+
+57/117. Assistance to Palestine refugees 
+ 
+ 
+
+ The General Assembly, 
+
+ Recalling its resolution 194 (III) of 11 December 1948 and all its subsequent 
+resolutions on the question, including resolution 56/52 of 10 December 2001, 
+
+ Recalling also its resolution 302 (IV) of 8 December 1949, by which, inter 
+alia, it established the United Nations Relief and Works Agency for Palestine 
+Refugees in the Near East, 
+
+ Recalling further relevant Security Council resolutions, 
+
+ Aware of the fact that the Palestine refugees have, for more than five decades, 
+lost their homes, lands and means of livelihood, 
+
+ Affirming the imperative of resolving the problem of the Palestine refugees for 
+the achievement of justice and for the achievement of lasting peace in the region, 
+
+ Acknowledging the essential role that the United Nations Relief and Works 
+Agency for Palestine Refugees in the Near East has played for more than fifty years 
+since its establishment in ameliorating the plight of the Palestine refugees in the 
+fields of education, health and relief and social services, 
+
+ Taking note of the report of the Commissioner-General of the United Nations 
+Relief and Works Agency for Palestine Refugees in the Near East covering the 
+period from 1 July 2001 to 30 June 2002,1 
+
+ Aware of the continuing needs of Palestine refugees throughout all the fields of 
+operation, namely the Occupied Palestinian Territory, Lebanon, Jordan and the 
+Syrian Arab Republic, 
+
+ Expressing grave concern at the especially difficult situation of the Palestine 
+refugees under occupation, including with regard to their safety, well-being and 
+living conditions, and the continuous deterioration of those conditions during the 
+recent period, 
+
+_______________ 
+1 Official Records of the General Assembly, Fifty-seventh Session, Supplement No. 13 (A/57/13). 
+
+
+
+A/RES/57/117 
+
+2 
+
+ Noting the signing of the Declaration of Principles on Interim Self-
+Government Arrangements on 13 September 1993 by the Government of Israel and 
+the Palestine Liberation Organization2 and the subsequent implementation 
+agreements, 
+
+ Aware that the Multilateral Working Group on Refugees of the Middle East 
+peace process has an important role to play in the peace process, 
+
+ 1. Notes with regret that repatriation or compensation of the refugees, as 
+provided for in paragraph 11 of its resolution 194 (III), has not yet been effected and 
+that, therefore, the situation of the Palestine refugees continues to be a matter of 
+concern; 
+
+ 2. Also notes with regret that the United Nations Conciliation Commission 
+for Palestine has been unable to find a means of achieving progress in the 
+implementation of paragraph 11 of General Assembly resolution 194 (III), and 
+requests the Commission to exert continued efforts towards the implementation of 
+that paragraph and to report to the Assembly as appropriate, but no later than 
+1 September 2003; 
+
+ 3. Affirms the necessity for the continuation of the work of the United 
+Nations Relief and Works Agency for Palestine Refugees in the Near East and the 
+importance of its operation and services for the well-being of the Palestine refugees 
+and for the stability of the region, pending the resolution of the question of the 
+Palestine refugees; 
+
+ 4. Calls upon all donors to continue to make the most generous efforts 
+possible to meet the anticipated needs of the Agency, including those mentioned in 
+recent emergency appeals. 
+
+ 
+
+73rd plenary meeting 
+11 December 2002 
+
+_______________ 
+2 A/48/486-S/26560, annex. 
+
+
+","{'arr': array([ 0.7827306 , -0.10821225, -0.06119892, ...,  1.8459579 ,
+       -0.8937794 , -1.0354017 ])}"," The U.N. passed a law saying they need to keep helping the who were affected by the. They want Palestinians give them food, shelter, clothes, etc. I think this is bad good thing because they are still suffering even though there over ten years since the war of wars. If should be do for soon so people will not be affected anymore."
+S/RES/1447(2002)_en,2002-12-04T00:00:00Z,SECURITY COUNCIL RESOLUTION 1447 (2002) [ON MEASURES TO PROVIDE FOR THE HUMANITARIAN NEEDS OF THE IRAQI PEOPLE],11.4341,1.1726,"
+United Nations S/RES/1447 (2002)
+
+ 
+
+Security Council Distr.: General
+4 December 2002
+
+02-72372 (E)
+
+*0272372*
+
+Resolution 1447 (2002)
+
+Adopted by the Security Council at its 4656th meeting,
+on 4 December 2002
+
+The Security Council,
+
+Recalling its previous relevant resolutions, including resolutions 986 (1995) of
+14 April 1995, 1284 (1999) of 17 December 1999, 1352 (2001) of 1 June 2001,
+1360 (2001) of 3 July 2001, 1382 (2001) of 29 November 2001 and 1409 (2002) of
+14 May 2002, as they relate to the improvement of the humanitarian programme for
+Iraq,
+
+Convinced of the need as a temporary measure to continue to provide for the
+civilian needs of the Iraqi people until the fulfilment by the Government of Iraq of
+the relevant resolutions, including notably resolutions 687 (1991) of 3 April 1991
+and 1284 (1999), allows the Council to take further action with regard to the
+prohibitions referred to in resolution 661 (1990) of 6 August 1990 in accordance
+with the provisions of these resolutions,
+
+Taking note of the Secretary-General’s report S/2002/1239 of 12 November
+2002,
+
+Determined to improve the humanitarian situation in Iraq,
+
+Reaffirming the commitment of all Member States to the sovereignty and
+territorial integrity of Iraq,
+
+Acting under Chapter VII of the Charter of the United Nations,
+
+1. Decides that the provisions of resolution 986 (1995), except those
+contained in paragraphs 4, 11 and 12, and the provisions of paragraphs 2, 3 and 6 to
+13 of resolution 1360 (2001) and subject to paragraph 15 of resolution 1284 (1999)
+and the other provisions of this present resolution, shall remain in force for a new
+period of 180 days beginning at 0001 hours, Eastern Standard Time, on 5 December
+2002;
+
+2. Decides to consider necessary adjustments to the Goods Review List
+(S/2002/515) and the procedures for its implementation, for adoption no later than
+30 days from the adoption of this resolution and thereafter to conduct regular,
+thorough reviews;
+
+
+
+2
+S/RES/1447 (2002)
+
+3. Decides that, for the purposes of this resolution, references in resolution
+1360 (2001) to the 150-day period established by that resolution shall be interpreted
+to refer to the 180-day period established pursuant to paragraph 1 above;
+
+4. Requests the Secretary-General to provide a comprehensive report to the
+Council, at least one week prior to the end of the 180-day period, on the basis of
+observations of United Nations personnel in Iraq, and of consultations with the
+Government of Iraq, on whether Iraq has ensured the equitable distribution of
+medicine, health supplies, foodstuffs, and materials and supplies for essential
+civilian needs, financed in accordance with paragraph 8 (a) of resolution 986 (1995),
+including in his reports any observations which he may have on the adequacy of the
+revenues to meet Iraq’s humanitarian needs;
+
+5. Requests the Secretary-General, in consultation with interested parties, to
+submit an assessment report on the implementation of the Goods Review List and its
+procedures 14 days before the end of the 180-day period referred to in paragraph 1
+above and to include in the report recommendations on any necessary revision of the
+Goods Review List and its procedures;
+
+6. Decides to remain seized of the matter.
+
+
+","{'arr': array([-0.03327977, -0.07915595, -0.57971096, ...,  2.091599  ,
+        0.18526009, -0.29522967])}"," The Security Council passed Resolution 1447 on December 4th, 2002. It renewed a embargo against Iraq for another 180 days starting long as Saddam Hussein made some important improvements. The goal was to ease human suffering but also so Saddam Hussein from using weapons of mass destruction again.  As well as stop oil sales monitored, Sadd had to make sure medicine, food, and other supplies were distributed evenly throughout the country. The Security Council wanted to help Iraqis while still pun able to control them trying to use weapons of mass destruction again.  A that 2003, K additional Security Council resolution would authorize war against Iraq if it failed to comply"

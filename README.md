@@ -29,6 +29,8 @@ Notes:
 - Can be useful to get votes from things not passed?
 - Can colour on topics/sponsoring country and explore that
 - Best_of param would be nice
+- Specify the kid shouldn't make spelling mistakes...
+- Show fun highlights
 
 [Link to Tableau visualization](https://prod-ca-a.online.tableau.com/#/site/ungaresolutions/workbooks/77336?:origin=card_share_link)
 
