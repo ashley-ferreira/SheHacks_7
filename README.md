@@ -31,3 +31,10 @@ Notes:
 - Best_of param would be nice
 
 [Link to Tableau visualization](https://prod-ca-a.online.tableau.com/#/site/ungaresolutions/workbooks/77336?:origin=card_share_link)
+
+### Extentions:
+- https://txt.cohere.ai/multilingual/
+- Search
+- Similar to paper clustering but possibly more convoluted
+- Seocond grade summary of specific resoltions
+- I just pull out the relevant resolutions for now but in future this can be extended to put in the prompt and answer questions (project I did before for different thing)
