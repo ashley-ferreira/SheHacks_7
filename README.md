@@ -5,7 +5,7 @@
 
 I've done some hackathons/challenges related to astrophysics but this is my first normal tech hackathon with corporate sponsors and all. I mostly just enjoying the events and meeting new people but also playing around with the Cohere API for the first time. 
 
-Resources:
+**Resources:**
 
 [Link to Tableau visualization](https://public.tableau.com/views/InvestigatingEmbeddingsSimilartoQuery/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
